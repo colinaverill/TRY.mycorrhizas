@@ -1,0 +1,277 @@
+"","species_common","species_scientific","leaf_nlayers","leaf_chlorophyll_a","leaf_chlorophyll_b","leaf_chlorophyll_total","leaf_carotenoid_total","leaf_anthocyanin_total","LMA","project","sample_year","sample_name","sample_id","leaf_water_content"
+"1","Sycamore maple","Acer pseudoplatanus",1.31,9.53,3.01,12.54,4.33,NA,55,"ANGERS",2003,"Ace-pse_0001","ANGERS_Ace-pse_0001_2003",122
+"2","Sycamore maple","Acer pseudoplatanus",1.43,9.01,3.41,12.41,3.65,NA,53,"ANGERS",2003,"Ace-pse_0002","ANGERS_Ace-pse_0002_2003",120
+"3","Sycamore maple","Acer pseudoplatanus",1.55,19.36,6.45,25.81,6.5,NA,45,"ANGERS",2003,"Ace-pse_0003","ANGERS_Ace-pse_0003_2003",106
+"4","Sycamore maple","Acer pseudoplatanus",1.65,18.66,5.47,24.13,6.9,NA,43,"ANGERS",2003,"Ace-pse_0004","ANGERS_Ace-pse_0004_2003",109
+"5","Sycamore maple","Acer pseudoplatanus",1.44,12.16,4.96,17.12,4.91,NA,40,"ANGERS",2003,"Ace-pse_0005","ANGERS_Ace-pse_0005_2003",104
+"6","Sycamore maple","Acer pseudoplatanus",1.53,9.21,4.34,13.54,3.85,NA,40,"ANGERS",2003,"Ace-pse_0006","ANGERS_Ace-pse_0006_2003",102
+"7","Sycamore maple","Acer pseudoplatanus",1.49,16.24,5.57,21.8,5.2,NA,39,"ANGERS",2003,"Ace-pse_0007","ANGERS_Ace-pse_0007_2003",94
+"8","Sycamore maple","Acer pseudoplatanus",1.38,15.82,5.08,20.9,5.41,NA,38,"ANGERS",2003,"Ace-pse_0008","ANGERS_Ace-pse_0008_2003",99
+"9","Sycamore maple","Acer pseudoplatanus",1.47,15.97,5.9,21.87,5.68,NA,42,"ANGERS",2003,"Ace-pse_0009","ANGERS_Ace-pse_0009_2003",97
+"10","Sycamore maple","Acer pseudoplatanus",1.42,15.18,4.99,20.16,5.55,NA,43,"ANGERS",2003,"Ace-pse_0010","ANGERS_Ace-pse_0010_2003",75
+"11","Sycamore maple","Acer pseudoplatanus",1.48,17.12,5.52,22.64,5.12,NA,34,"ANGERS",2003,"Ace-pse_0011","ANGERS_Ace-pse_0011_2003",83
+"12","Sycamore maple","Acer pseudoplatanus",1.42,15.32,4.9,20.22,4.95,NA,37,"ANGERS",2003,"Ace-pse_0012","ANGERS_Ace-pse_0012_2003",87
+"13","Sycamore maple","Acer pseudoplatanus",1.53,15.74,5.54,21.28,5.6,NA,36,"ANGERS",2003,"Ace-pse_0013","ANGERS_Ace-pse_0013_2003",120
+"14","Sycamore maple","Acer pseudoplatanus",1.49,14.18,5.44,19.61,5.56,NA,35,"ANGERS",2003,"Ace-pse_0014","ANGERS_Ace-pse_0014_2003",116
+"15","Sycamore maple","Acer pseudoplatanus",1.59,22.9,7.33,30.23,8.49,NA,41,"ANGERS",2003,"Ace-pse_0015","ANGERS_Ace-pse_0015_2003",121
+"16","Sycamore maple","Acer pseudoplatanus",1.55,23.66,7.78,31.44,8.44,NA,39,"ANGERS",2003,"Ace-pse_0016","ANGERS_Ace-pse_0016_2003",114
+"17","Sycamore maple","Acer pseudoplatanus",1.43,12.05,4.38,16.43,4.51,NA,33,"ANGERS",2003,"Ace-pse_0017","ANGERS_Ace-pse_0017_2003",113
+"18","Sycamore maple","Acer pseudoplatanus",1.49,9.88,3.36,13.23,4.4,NA,36,"ANGERS",2003,"Ace-pse_0018","ANGERS_Ace-pse_0018_2003",115
+"19","Sycamore maple","Acer pseudoplatanus",1.38,27.66,8.12,35.78,9.32,NA,43,"ANGERS",2003,"Ace-pse_0019","ANGERS_Ace-pse_0019_2003",109
+"20","Sycamore maple","Acer pseudoplatanus",1.52,24.74,7.77,32.51,9.11,NA,42,"ANGERS",2003,"Ace-pse_0020","ANGERS_Ace-pse_0020_2003",111
+"21","Sycamore maple","Acer pseudoplatanus",1.56,9.34,3.61,12.95,3.59,NA,45,"ANGERS",2003,"Ace-pse_0021","ANGERS_Ace-pse_0021_2003",103
+"22","Sycamore maple","Acer pseudoplatanus",1.44,10.24,3.86,14.11,3.75,NA,46,"ANGERS",2003,"Ace-pse_0022","ANGERS_Ace-pse_0022_2003",112
+"23","Sycamore maple","Acer pseudoplatanus",1.62,21.1,6.79,27.88,6.98,NA,53,"ANGERS",2003,"Ace-pse_0023","ANGERS_Ace-pse_0023_2003",118
+"24","Sycamore maple","Acer pseudoplatanus",1.6,22.01,7.06,29.07,7.93,NA,52,"ANGERS",2003,"Ace-pse_0024","ANGERS_Ace-pse_0024_2003",111
+"25","Sycamore maple","Acer pseudoplatanus",1.57,10.75,3.8,14.55,4.98,NA,50,"ANGERS",2003,"Ace-pse_0025","ANGERS_Ace-pse_0025_2003",131
+"26","Sycamore maple","Acer pseudoplatanus",1.28,11.59,4.91,16.5,5.29,NA,94,"ANGERS",2003,"Ace-pse_0026","ANGERS_Ace-pse_0026_2003",118
+"27","Sycamore maple","Acer pseudoplatanus",1.51,18.76,7.23,26,5.97,NA,41,"ANGERS",2003,"Ace-pse_0027","ANGERS_Ace-pse_0027_2003",103
+"28","Sycamore maple","Acer pseudoplatanus",1.69,17.03,6.23,23.26,5.89,NA,42,"ANGERS",2003,"Ace-pse_0028","ANGERS_Ace-pse_0028_2003",102
+"29","Sycamore maple","Acer pseudoplatanus",1.48,11.36,4.56,15.92,4.69,NA,36,"ANGERS",2003,"Ace-pse_0029","ANGERS_Ace-pse_0029_2003",88
+"30","Sycamore maple","Acer pseudoplatanus",1.47,10.52,4.18,14.7,4.32,NA,39,"ANGERS",2003,"Ace-pse_0030","ANGERS_Ace-pse_0030_2003",87
+"31","Sycamore maple","Acer pseudoplatanus",1.6,20.69,7.21,27.9,7.63,NA,40,"ANGERS",2003,"Ace-pse_0031","ANGERS_Ace-pse_0031_2003",96
+"32","Sycamore maple","Acer pseudoplatanus",1.58,22.53,8.22,30.75,8.7,NA,41,"ANGERS",2003,"Ace-pse_0032","ANGERS_Ace-pse_0032_2003",95
+"33","Sycamore maple","Acer pseudoplatanus",1.69,25.16,9.34,34.5,8.09,NA,47,"ANGERS",2003,"Ace-pse_0033","ANGERS_Ace-pse_0033_2003",111
+"34","Sycamore maple","Acer pseudoplatanus",1.46,7.86,2.68,10.54,3.78,NA,51,"ANGERS",2003,"Ace-pse_0034","ANGERS_Ace-pse_0034_2003",114
+"35","Sycamore maple","Acer pseudoplatanus",1.56,18.05,5.44,23.49,6.75,NA,42,"ANGERS",2003,"Ace-pse_0035","ANGERS_Ace-pse_0035_2003",97
+"36","Sycamore maple","Acer pseudoplatanus",1.39,24.64,7.67,32.3,7.28,NA,19,"ANGERS",2003,"Ace-pse_0036","ANGERS_Ace-pse_0036_2003",64
+"37","Sycamore maple","Acer pseudoplatanus",1.41,21.84,6.58,28.42,6.42,NA,18,"ANGERS",2003,"Ace-pse_0037","ANGERS_Ace-pse_0037_2003",65
+"38","Sycamore maple","Acer pseudoplatanus",1.37,24.84,8.38,33.21,7.58,NA,20,"ANGERS",2003,"Ace-pse_0038","ANGERS_Ace-pse_0038_2003",71
+"39","Sycamore maple","Acer pseudoplatanus",1.25,17.8,6.33,24.13,6.08,NA,18,"ANGERS",2003,"Ace-pse_0039","ANGERS_Ace-pse_0039_2003",67
+"40","Sycamore maple","Acer pseudoplatanus",1.22,17.82,6.24,24.06,5.93,NA,18,"ANGERS",2003,"Ace-pse_0040","ANGERS_Ace-pse_0040_2003",67
+"41","Sycamore maple","Acer pseudoplatanus",1.54,33,11.58,44.58,10.22,NA,23,"ANGERS",2003,"Ace-pse_0041","ANGERS_Ace-pse_0041_2003",83
+"42","Sycamore maple","Acer pseudoplatanus",1.49,32.67,11.79,44.46,9.94,NA,23,"ANGERS",2003,"Ace-pse_0042","ANGERS_Ace-pse_0042_2003",84
+"43","Sycamore maple","Acer pseudoplatanus",1.33,22.33,8.18,30.51,8.42,NA,18,"ANGERS",2003,"Ace-pse_0043","ANGERS_Ace-pse_0043_2003",65
+"44","Sycamore maple","Acer pseudoplatanus",1.29,23.1,8.54,31.63,8.19,NA,19,"ANGERS",2003,"Ace-pse_0044","ANGERS_Ace-pse_0044_2003",65
+"45","Sycamore maple","Acer pseudoplatanus",1.35,22.3,8.37,30.67,7.34,NA,21,"ANGERS",2003,"Ace-pse_0045","ANGERS_Ace-pse_0045_2003",86
+"46","Sycamore maple","Acer pseudoplatanus",1.36,21.89,8.79,30.68,6.97,NA,19,"ANGERS",2003,"Ace-pse_0046","ANGERS_Ace-pse_0046_2003",81
+"47","Sycamore maple","Acer pseudoplatanus",1.35,31.81,11.17,42.98,10.14,NA,20,"ANGERS",2003,"Ace-pse_0047","ANGERS_Ace-pse_0047_2003",74
+"48","Sycamore maple","Acer pseudoplatanus",1.34,31.36,10.54,41.9,10.4,NA,21,"ANGERS",2003,"Ace-pse_0048","ANGERS_Ace-pse_0048_2003",76
+"49","Sycamore maple","Acer pseudoplatanus",1.28,26.6,9.11,35.71,8.82,NA,26,"ANGERS",2003,"Ace-pse_0049","ANGERS_Ace-pse_0049_2003",78
+"50","Sycamore maple","Acer pseudoplatanus",1.38,17.1,5.86,22.96,5.32,NA,19,"ANGERS",2003,"Ace-pse_0050","ANGERS_Ace-pse_0050_2003",74
+"51","Sycamore maple","Acer pseudoplatanus",1.36,15.83,4.99,20.83,5.33,NA,24,"ANGERS",2003,"Ace-pse_0051","ANGERS_Ace-pse_0051_2003",82
+"52","Sycamore maple","Acer pseudoplatanus",1.42,16.68,6.37,23.05,5.71,NA,22,"ANGERS",2003,"Ace-pse_0052","ANGERS_Ace-pse_0052_2003",87
+"53","Sycamore maple","Acer pseudoplatanus",1.45,21.46,5.48,26.94,7.86,NA,46,"ANGERS",2003,"Ace-pse_0053","ANGERS_Ace-pse_0053_2003",121
+"54","Sycamore maple","Acer pseudoplatanus",1.46,23.33,6.9,30.23,8.01,NA,48,"ANGERS",2003,"Ace-pse_0054","ANGERS_Ace-pse_0054_2003",114
+"55","Sycamore maple","Acer pseudoplatanus",1.53,36.12,9.47,45.59,12.02,NA,47,"ANGERS",2003,"Ace-pse_0055","ANGERS_Ace-pse_0055_2003",110
+"56","Sycamore maple","Acer pseudoplatanus",1.5,33.67,8.86,42.53,11.12,NA,49,"ANGERS",2003,"Ace-pse_0056","ANGERS_Ace-pse_0056_2003",115
+"57","Sycamore maple","Acer pseudoplatanus",1.48,18.86,5.1,23.97,7.37,NA,46,"ANGERS",2003,"Ace-pse_0057","ANGERS_Ace-pse_0057_2003",137
+"58","Sycamore maple","Acer pseudoplatanus",1.59,18.67,5.23,23.89,7.47,NA,48,"ANGERS",2003,"Ace-pse_0058","ANGERS_Ace-pse_0058_2003",137
+"59","Sycamore maple","Acer pseudoplatanus",1.5,43.21,11.88,55.09,14.54,NA,46,"ANGERS",2003,"Ace-pse_0059","ANGERS_Ace-pse_0059_2003",113
+"60","Sycamore maple","Acer pseudoplatanus",1.47,39.25,12.17,51.42,12.37,NA,38,"ANGERS",2003,"Ace-pse_0060","ANGERS_Ace-pse_0060_2003",103
+"61","Sycamore maple","Acer pseudoplatanus",1.5,21.01,6.34,27.35,7.71,NA,50,"ANGERS",2003,"Ace-pse_0061","ANGERS_Ace-pse_0061_2003",125
+"62","Sycamore maple","Acer pseudoplatanus",1.47,24.28,7.15,31.42,8.69,NA,51,"ANGERS",2003,"Ace-pse_0062","ANGERS_Ace-pse_0062_2003",126
+"63","Sycamore maple","Acer pseudoplatanus",1.5,30.01,8.4,38.41,10.62,NA,47,"ANGERS",2003,"Ace-pse_0063","ANGERS_Ace-pse_0063_2003",109
+"64","Sycamore maple","Acer pseudoplatanus",1.46,32.41,8.98,41.39,10.86,NA,41,"ANGERS",2003,"Ace-pse_0064","ANGERS_Ace-pse_0064_2003",100
+"65","Sycamore maple","Acer pseudoplatanus",1.4,19.16,5.75,24.91,6.45,NA,36,"ANGERS",2003,"Ace-pse_0065","ANGERS_Ace-pse_0065_2003",98
+"66","Sycamore maple","Acer pseudoplatanus",1.43,18.27,5.39,23.65,6.63,NA,41,"ANGERS",2003,"Ace-pse_0066","ANGERS_Ace-pse_0066_2003",99
+"67","Sycamore maple","Acer pseudoplatanus",1.43,33.01,9.1,42.11,10.68,NA,37,"ANGERS",2003,"Ace-pse_0067","ANGERS_Ace-pse_0067_2003",102
+"68","Sycamore maple","Acer pseudoplatanus",1.44,33.46,9.64,43.11,10.7,NA,34,"ANGERS",2003,"Ace-pse_0068","ANGERS_Ace-pse_0068_2003",98
+"69","Sycamore maple","Acer pseudoplatanus",1.44,17.47,5.63,23.1,6.35,NA,44,"ANGERS",2003,"Ace-pse_0069","ANGERS_Ace-pse_0069_2003",109
+"70","Sycamore maple","Acer pseudoplatanus",1.38,16.37,5.23,21.61,5.84,NA,45,"ANGERS",2003,"Ace-pse_0070","ANGERS_Ace-pse_0070_2003",98
+"71","Sycamore maple","Acer pseudoplatanus",1.47,39.19,11.57,50.76,12.14,NA,49,"ANGERS",2003,"Ace-pse_0071","ANGERS_Ace-pse_0071_2003",97
+"72","Sycamore maple","Acer pseudoplatanus",1.46,19.64,5.86,25.5,6.9,NA,46,"ANGERS",2003,"Ace-pse_0072","ANGERS_Ace-pse_0072_2003",93
+"73","Sycamore maple","Acer pseudoplatanus",1.53,20.05,6.35,26.41,6.98,NA,50,"ANGERS",2003,"Ace-pse_0073","ANGERS_Ace-pse_0073_2003",113
+"74","Sycamore maple","Acer pseudoplatanus",1.41,21.54,6.43,27.97,7.48,NA,48,"ANGERS",2003,"Ace-pse_0074","ANGERS_Ace-pse_0074_2003",110
+"75","Sycamore maple","Acer pseudoplatanus",1.51,38.02,11.73,49.75,11.78,NA,42,"ANGERS",2003,"Ace-pse_0075","ANGERS_Ace-pse_0075_2003",98
+"76","Sycamore maple","Acer pseudoplatanus",1.45,40.45,12.4,52.85,12.63,NA,44,"ANGERS",2003,"Ace-pse_0076","ANGERS_Ace-pse_0076_2003",106
+"77","Sycamore maple","Acer pseudoplatanus",1.27,24.2,8.19,32.39,7.28,NA,29,"ANGERS",2003,"Ace-pse_0077","ANGERS_Ace-pse_0077_2003",83
+"78","Sycamore maple","Acer pseudoplatanus",1.26,25.72,8.08,33.8,7.57,NA,29,"ANGERS",2003,"Ace-pse_0078","ANGERS_Ace-pse_0078_2003",85
+"79","Sycamore maple","Acer pseudoplatanus",1.38,38.15,12.21,50.37,11.44,NA,27,"ANGERS",2003,"Ace-pse_0079","ANGERS_Ace-pse_0079_2003",82
+"80","Sycamore maple","Acer pseudoplatanus",1.39,37.06,10.69,47.74,11.18,NA,29,"ANGERS",2003,"Ace-pse_0080","ANGERS_Ace-pse_0080_2003",85
+"81","Sycamore maple","Acer pseudoplatanus",1.27,21.38,7.02,28.41,6.22,NA,31,"ANGERS",2003,"Ace-pse_0081","ANGERS_Ace-pse_0081_2003",88
+"82","Sycamore maple","Acer pseudoplatanus",1.25,21.04,6.66,27.7,6.32,NA,26,"ANGERS",2003,"Ace-pse_0082","ANGERS_Ace-pse_0082_2003",88
+"83","Sycamore maple","Acer pseudoplatanus",1.52,31.03,9.51,40.54,8.89,NA,29,"ANGERS",2003,"Ace-pse_0083","ANGERS_Ace-pse_0083_2003",78
+"84","Sycamore maple","Acer pseudoplatanus",1.45,34.5,11.22,45.72,9.98,NA,25,"ANGERS",2003,"Ace-pse_0084","ANGERS_Ace-pse_0084_2003",83
+"85","Sycamore maple","Acer pseudoplatanus",1.39,27.22,8.73,35.95,8.13,NA,26,"ANGERS",2003,"Ace-pse_0085","ANGERS_Ace-pse_0085_2003",88
+"86","Sycamore maple","Acer pseudoplatanus",1.38,27.12,9.2,36.32,8.2,NA,27,"ANGERS",2003,"Ace-pse_0086","ANGERS_Ace-pse_0086_2003",88
+"87","Sycamore maple","Acer pseudoplatanus",1.41,39.87,12.69,52.56,11.41,NA,28,"ANGERS",2003,"Ace-pse_0087","ANGERS_Ace-pse_0087_2003",85
+"88","Sycamore maple","Acer pseudoplatanus",1.31,41.22,12.89,54.11,12.02,NA,31,"ANGERS",2003,"Ace-pse_0088","ANGERS_Ace-pse_0088_2003",85
+"89","Sycamore maple","Acer pseudoplatanus",1.31,27.52,9.29,36.81,8.15,NA,23,"ANGERS",2003,"Ace-pse_0089","ANGERS_Ace-pse_0089_2003",80
+"90","Sycamore maple","Acer pseudoplatanus",1.27,24.32,8.45,32.77,7.31,NA,23,"ANGERS",2003,"Ace-pse_0090","ANGERS_Ace-pse_0090_2003",80
+"91","Sycamore maple","Acer pseudoplatanus",1.34,39.01,12.57,51.58,11.59,NA,28,"ANGERS",2003,"Ace-pse_0091","ANGERS_Ace-pse_0091_2003",84
+"92","Sycamore maple","Acer pseudoplatanus",1.31,38.57,12.93,51.5,11.28,NA,28,"ANGERS",2003,"Ace-pse_0092","ANGERS_Ace-pse_0092_2003",79
+"93","Sycamore maple","Acer pseudoplatanus",1.29,21.6,7.63,29.23,6.76,NA,21,"ANGERS",2003,"Ace-pse_0093","ANGERS_Ace-pse_0093_2003",88
+"94","Sycamore maple","Acer pseudoplatanus",1.27,22.35,7.67,30.02,6.87,NA,21,"ANGERS",2003,"Ace-pse_0094","ANGERS_Ace-pse_0094_2003",89
+"95","Sycamore maple","Acer pseudoplatanus",1.39,38.14,12.31,50.45,10.57,NA,25,"ANGERS",2003,"Ace-pse_0095","ANGERS_Ace-pse_0095_2003",78
+"96","Sycamore maple","Acer pseudoplatanus",1.38,38.3,12.12,50.42,10.67,NA,25,"ANGERS",2003,"Ace-pse_0096","ANGERS_Ace-pse_0096_2003",81
+"97","Sycamore maple","Acer pseudoplatanus",1.27,30.82,9.72,40.54,9.26,NA,24,"ANGERS",2003,"Ace-pse_0097","ANGERS_Ace-pse_0097_2003",84
+"98","Sycamore maple","Acer pseudoplatanus",1.33,30.23,10.01,40.24,8.86,NA,24,"ANGERS",2003,"Ace-pse_0098","ANGERS_Ace-pse_0098_2003",83
+"99","Sycamore maple","Acer pseudoplatanus",1.37,46.14,15.73,61.88,13.69,NA,29,"ANGERS",2003,"Ace-pse_0099","ANGERS_Ace-pse_0099_2003",82
+"100","Sycamore maple","Acer pseudoplatanus",1.35,43.19,13.75,56.94,13.16,NA,26,"ANGERS",2003,"Ace-pse_0100","ANGERS_Ace-pse_0100_2003",80
+"101","Sycamore maple","Acer pseudoplatanus",1.39,18.12,5.73,23.85,5.84,NA,29,"ANGERS",2003,"Ace-pse_0101","ANGERS_Ace-pse_0101_2003",71
+"102","Sycamore maple","Acer pseudoplatanus",1.43,16.69,4.88,21.56,5.52,NA,31,"ANGERS",2003,"Ace-pse_0102","ANGERS_Ace-pse_0102_2003",78
+"103","Sycamore maple","Acer pseudoplatanus",1.42,20.41,6.22,26.63,6.21,NA,29,"ANGERS",2003,"Ace-pse_0103","ANGERS_Ace-pse_0103_2003",78
+"104","Sycamore maple","Acer pseudoplatanus",1.4,19.42,6.17,25.59,5.68,NA,26,"ANGERS",2003,"Ace-pse_0104","ANGERS_Ace-pse_0104_2003",77
+"105","Sycamore maple","Acer pseudoplatanus",1.27,8.66,3.07,11.72,3.65,NA,33,"ANGERS",2003,"Ace-pse_0105","ANGERS_Ace-pse_0105_2003",92
+"106","Sycamore maple","Acer pseudoplatanus",1.31,9.94,3.97,13.91,3.98,NA,32,"ANGERS",2003,"Ace-pse_0106","ANGERS_Ace-pse_0106_2003",87
+"107","Sycamore maple","Acer pseudoplatanus",1.35,15.65,4.61,20.26,5.68,NA,29,"ANGERS",2003,"Ace-pse_0107","ANGERS_Ace-pse_0107_2003",86
+"108","Sycamore maple","Acer pseudoplatanus",1.35,16.22,5.42,21.63,5.45,NA,27,"ANGERS",2003,"Ace-pse_0108","ANGERS_Ace-pse_0108_2003",83
+"109","Sycamore maple","Acer pseudoplatanus",1.39,10.73,4.13,14.86,4.1,NA,46,"ANGERS",2003,"Ace-pse_0109","ANGERS_Ace-pse_0109_2003",97
+"110","Sycamore maple","Acer pseudoplatanus",1.38,10.12,3.86,13.98,3.91,NA,45,"ANGERS",2003,"Ace-pse_0110","ANGERS_Ace-pse_0110_2003",100
+"111","Sycamore maple","Acer pseudoplatanus",1.58,15.62,5.53,21.15,5.41,NA,39,"ANGERS",2003,"Ace-pse_0111","ANGERS_Ace-pse_0111_2003",92
+"112","Sycamore maple","Acer pseudoplatanus",1.56,15.38,4.78,20.16,5.81,NA,40,"ANGERS",2003,"Ace-pse_0112","ANGERS_Ace-pse_0112_2003",96
+"113","Sycamore maple","Acer pseudoplatanus",1.42,8.52,2.67,11.19,3.6,NA,44,"ANGERS",2003,"Ace-pse_0113","ANGERS_Ace-pse_0113_2003",96
+"114","Sycamore maple","Acer pseudoplatanus",1.49,9.1,3.36,12.46,3.61,NA,43,"ANGERS",2003,"Ace-pse_0114","ANGERS_Ace-pse_0114_2003",99
+"115","Sycamore maple","Acer pseudoplatanus",1.5,15.91,5.27,21.18,5.47,NA,44,"ANGERS",2003,"Ace-pse_0115","ANGERS_Ace-pse_0115_2003",86
+"116","Sycamore maple","Acer pseudoplatanus",1.43,16.64,4.91,21.55,6.11,NA,40,"ANGERS",2003,"Ace-pse_0116","ANGERS_Ace-pse_0116_2003",86
+"117","Sycamore maple","Acer pseudoplatanus",1.31,6.45,1.88,8.33,2.9,NA,31,"ANGERS",2003,"Ace-pse_0117","ANGERS_Ace-pse_0117_2003",92
+"118","Sycamore maple","Acer pseudoplatanus",1.3,6.12,1.6,7.72,2.88,NA,33,"ANGERS",2003,"Ace-pse_0118","ANGERS_Ace-pse_0118_2003",99
+"119","Sycamore maple","Acer pseudoplatanus",1.35,6.67,1.74,8.41,3.06,NA,34,"ANGERS",2003,"Ace-pse_0119","ANGERS_Ace-pse_0119_2003",90
+"120","Sycamore maple","Acer pseudoplatanus",1.37,7.48,2.51,9.99,3.06,NA,34,"ANGERS",2003,"Ace-pse_0120","ANGERS_Ace-pse_0120_2003",90
+"121","Sycamore maple","Acer pseudoplatanus",1.36,8.72,2.38,11.1,4.64,NA,35,"ANGERS",2003,"Ace-pse_0121","ANGERS_Ace-pse_0121_2003",81
+"122","Sycamore maple","Acer pseudoplatanus",1.29,7.94,2.23,10.17,3.73,NA,30,"ANGERS",2003,"Ace-pse_0122","ANGERS_Ace-pse_0122_2003",92
+"123","Sycamore maple","Acer pseudoplatanus",1.31,5.44,1.64,7.08,2.47,NA,19,"ANGERS",2003,"Ace-pse_0123","ANGERS_Ace-pse_0123_2003",80
+"124","Sycamore maple","Acer pseudoplatanus",1.28,5.06,1.94,7.01,2.01,NA,19,"ANGERS",2003,"Ace-pse_0124","ANGERS_Ace-pse_0124_2003",79
+"125","Sycamore maple","Acer pseudoplatanus",1.33,11.55,3.22,14.77,4.12,NA,22,"ANGERS",2003,"Ace-pse_0125","ANGERS_Ace-pse_0125_2003",79
+"126","Sycamore maple","Acer pseudoplatanus",1.32,13.39,4.04,17.43,4.35,NA,22,"ANGERS",2003,"Ace-pse_0126","ANGERS_Ace-pse_0126_2003",78
+"127","Sycamore maple","Acer pseudoplatanus",1.4,6.93,2.37,9.3,2.87,NA,25,"ANGERS",2003,"Ace-pse_0127","ANGERS_Ace-pse_0127_2003",75
+"128","Sycamore maple","Acer pseudoplatanus",1.35,7.25,2.41,9.66,2.93,NA,22,"ANGERS",2003,"Ace-pse_0128","ANGERS_Ace-pse_0128_2003",76
+"129","Sycamore maple","Acer pseudoplatanus",1.23,9.59,2.57,12.16,4.02,NA,24,"ANGERS",2003,"Ace-pse_0129","ANGERS_Ace-pse_0129_2003",84
+"130","Sycamore maple","Acer pseudoplatanus",1.22,10.16,2.86,13.02,4.27,NA,22,"ANGERS",2003,"Ace-pse_0130","ANGERS_Ace-pse_0130_2003",79
+"131","Sycamore maple","Acer pseudoplatanus",1.21,4.06,1.38,5.45,2.75,NA,46,"ANGERS",2003,"Ace-pse_0131","ANGERS_Ace-pse_0131_2003",125
+"132","Sycamore maple","Acer pseudoplatanus",1.05,3.05,1.32,4.37,1.85,NA,39,"ANGERS",2003,"Ace-pse_0132","ANGERS_Ace-pse_0132_2003",113
+"133","Sycamore maple","Acer pseudoplatanus",1.41,8.37,3.32,11.69,4.64,NA,50,"ANGERS",2003,"Ace-pse_0133","ANGERS_Ace-pse_0133_2003",108
+"134","Sycamore maple","Acer pseudoplatanus",1.4,9.74,3.45,13.19,5.37,NA,55,"ANGERS",2003,"Ace-pse_0134","ANGERS_Ace-pse_0134_2003",121
+"135","Sycamore maple","Acer pseudoplatanus",1.42,12.83,3.98,16.81,5.59,NA,48,"ANGERS",2003,"Ace-pse_0135","ANGERS_Ace-pse_0135_2003",91
+"136","Sycamore maple","Acer pseudoplatanus",1.37,11.41,3.07,14.48,5.5,NA,44,"ANGERS",2003,"Ace-pse_0136","ANGERS_Ace-pse_0136_2003",99
+"137","Sycamore maple","Acer pseudoplatanus",1.33,5.84,1.94,7.78,3.41,NA,53,"ANGERS",2003,"Ace-pse_0137","ANGERS_Ace-pse_0137_2003",132
+"138","Sycamore maple","Acer pseudoplatanus",1.33,7.13,2.4,9.54,3.71,NA,51,"ANGERS",2003,"Ace-pse_0138","ANGERS_Ace-pse_0138_2003",122
+"139","Sycamore maple","Acer pseudoplatanus",1.45,56.03,17.26,73.28,21.18,NA,55,"ANGERS",2003,"Ace-pse_0139","ANGERS_Ace-pse_0139_2003",117
+"140","Sycamore maple","Acer pseudoplatanus",1.48,57.85,18.3,76.15,22.48,NA,66,"ANGERS",2003,"Ace-pse_0140","ANGERS_Ace-pse_0140_2003",128
+"141","Sycamore maple","Acer pseudoplatanus",1.5,27.55,8.02,35.57,9.74,NA,47,"ANGERS",2003,"Ace-pse_0141","ANGERS_Ace-pse_0141_2003",146
+"142","Sycamore maple","Acer pseudoplatanus",1.48,27.66,7.7,35.36,9.14,NA,50,"ANGERS",2003,"Ace-pse_0142","ANGERS_Ace-pse_0142_2003",151
+"143","Sycamore maple","Acer pseudoplatanus",1.4,67.21,20.31,87.52,23,NA,59,"ANGERS",2003,"Ace-pse_0143","ANGERS_Ace-pse_0143_2003",127
+"144","Sycamore maple","Acer pseudoplatanus",1.42,69.04,22.38,91.42,25.28,NA,60,"ANGERS",2003,"Ace-pse_0144","ANGERS_Ace-pse_0144_2003",124
+"145","Sycamore maple","Acer pseudoplatanus",1.44,55.4,18.81,74.21,19.88,NA,52,"ANGERS",2003,"Ace-pse_0145","ANGERS_Ace-pse_0145_2003",110
+"146","Sycamore maple","Acer pseudoplatanus",1.47,62.59,19.99,82.58,22.72,NA,60,"ANGERS",2003,"Ace-pse_0146","ANGERS_Ace-pse_0146_2003",123
+"147","Sycamore maple","Acer pseudoplatanus",1.33,23.27,6.93,30.2,7.94,NA,24,"ANGERS",2003,"Ace-pse_0147","ANGERS_Ace-pse_0147_2003",95
+"148","Sycamore maple","Acer pseudoplatanus",1.33,20.64,6.33,26.97,7.13,NA,25,"ANGERS",2003,"Ace-pse_0148","ANGERS_Ace-pse_0148_2003",101
+"149","Sycamore maple","Acer pseudoplatanus",1.31,20.26,5.89,26.15,6.7,NA,32,"ANGERS",2003,"Ace-pse_0149","ANGERS_Ace-pse_0149_2003",104
+"150","Sycamore maple","Acer pseudoplatanus",1.27,18.09,6.16,24.25,7.29,NA,28,"ANGERS",2003,"Ace-pse_0150","ANGERS_Ace-pse_0150_2003",99
+"151","Sycamore maple","Acer pseudoplatanus",1.22,16.56,4.46,21.03,6.53,NA,25,"ANGERS",2003,"Ace-pse_0151","ANGERS_Ace-pse_0151_2003",90
+"152","Sycamore maple","Acer pseudoplatanus",1.23,16.57,4.37,20.94,6.25,NA,25,"ANGERS",2003,"Ace-pse_0152","ANGERS_Ace-pse_0152_2003",91
+"153","Sycamore maple","Acer pseudoplatanus",1.57,23.83,6.18,30.01,8.31,NA,40,"ANGERS",2003,"Ace-pse_0153","ANGERS_Ace-pse_0153_2003",136
+"154","Sycamore maple","Acer pseudoplatanus",1.54,24.8,6.82,31.62,8.62,NA,37,"ANGERS",2003,"Ace-pse_0154","ANGERS_Ace-pse_0154_2003",132
+"155","Sycamore maple","Acer pseudoplatanus",1.66,62.32,22.02,84.34,20.86,NA,59,"ANGERS",2003,"Ace-pse_0155","ANGERS_Ace-pse_0155_2003",140
+"156","Sycamore maple","Acer pseudoplatanus",1.59,59.3,20.55,79.85,19.51,NA,52,"ANGERS",2003,"Ace-pse_0156","ANGERS_Ace-pse_0156_2003",134
+"157","Sycamore maple","Acer pseudoplatanus",1.82,61.52,21.8,83.32,20.57,NA,63,"ANGERS",2003,"Ace-pse_0157","ANGERS_Ace-pse_0157_2003",142
+"158","Sycamore maple","Acer pseudoplatanus",1.81,60.02,21.13,81.15,19.56,NA,62,"ANGERS",2003,"Ace-pse_0158","ANGERS_Ace-pse_0158_2003",153
+"159","Sycamore maple","Acer pseudoplatanus",1.64,74.76,28.78,103.54,23.95,NA,70,"ANGERS",2003,"Ace-pse_0159","ANGERS_Ace-pse_0159_2003",132
+"160","Sycamore maple","Acer pseudoplatanus",1.72,73.5,28.15,101.65,23.25,NA,54,"ANGERS",2003,"Ace-pse_0160","ANGERS_Ace-pse_0160_2003",124
+"161","Sycamore maple","Acer pseudoplatanus",1.66,76.83,29.88,106.72,24.22,NA,61,"ANGERS",2003,"Ace-pse_0161","ANGERS_Ace-pse_0161_2003",147
+"162","Sycamore maple","Acer pseudoplatanus",1.58,76.3,28.8,105.09,24.13,NA,65,"ANGERS",2003,"Ace-pse_0162","ANGERS_Ace-pse_0162_2003",158
+"163","Sycamore maple","Acer pseudoplatanus",1.68,68.42,23.94,92.36,22.22,NA,61,"ANGERS",2003,"Ace-pse_0163","ANGERS_Ace-pse_0163_2003",166
+"164","Sycamore maple","Acer pseudoplatanus",1.75,68.1,24.65,92.75,22.1,NA,59,"ANGERS",2003,"Ace-pse_0164","ANGERS_Ace-pse_0164_2003",165
+"165","Sycamore maple","Acer pseudoplatanus",1.58,18.39,6.8,25.19,8.19,NA,59,"ANGERS",2003,"Ace-pse_0165","ANGERS_Ace-pse_0165_2003",114
+"166","Sycamore maple","Acer pseudoplatanus",1.42,29.72,8.84,38.55,10.31,NA,62,"ANGERS",2003,"Ace-pse_0166","ANGERS_Ace-pse_0166_2003",129
+"167","Sycamore maple","Acer pseudoplatanus",1.55,41,12.3,53.3,16.43,NA,105,"ANGERS",2003,"Ace-pse_0167","ANGERS_Ace-pse_0167_2003",141
+"168","Sycamore maple","Acer pseudoplatanus",1.39,21.78,5.79,27.56,8.46,NA,55,"ANGERS",2003,"Ace-pse_0168","ANGERS_Ace-pse_0168_2003",80
+"169","Sycamore maple","Acer pseudoplatanus",1.4,18.62,5.75,24.37,6.78,NA,52,"ANGERS",2003,"Ace-pse_0169","ANGERS_Ace-pse_0169_2003",92
+"170","Sycamore maple","Acer pseudoplatanus",1.48,35.99,12.09,48.08,13.23,NA,95,"ANGERS",2003,"Ace-pse_0170","ANGERS_Ace-pse_0170_2003",132
+"171","Sycamore maple","Acer pseudoplatanus",1.54,48.54,15.01,63.54,16.76,NA,79,"ANGERS",2003,"Ace-pse_0171","ANGERS_Ace-pse_0171_2003",130
+"172","Sycamore maple","Acer pseudoplatanus",1.35,13.04,3.93,16.97,5.81,NA,65,"ANGERS",2003,"Ace-pse_0172","ANGERS_Ace-pse_0172_2003",142
+"173","Sycamore maple","Acer pseudoplatanus",1.41,14.93,5.22,20.15,5.35,NA,60,"ANGERS",2003,"Ace-pse_0173","ANGERS_Ace-pse_0173_2003",140
+"174","Sycamore maple","Acer pseudoplatanus",1.43,26.75,7.27,34.02,10.09,NA,70,"ANGERS",2003,"Ace-pse_0174","ANGERS_Ace-pse_0174_2003",131
+"175","Filbert","Corylus maxima",1.51,60.38,18.42,78.8,20.06,NA,71,"ANGERS",2003,"Cor-max_0175","ANGERS_Cor-max_0175_2003",97
+"176","Filbert","Corylus maxima",1.24,7.19,0.71,7.9,6.77,NA,46,"ANGERS",2003,"Cor-max_0176","ANGERS_Cor-max_0176_2003",82
+"177","Filbert","Corylus maxima",1.23,6.7,1.25,7.95,6.77,NA,40,"ANGERS",2003,"Cor-max_0177","ANGERS_Cor-max_0177_2003",78
+"178","Black locust","Robinia pseudoacacia",1.4,0.58,0.56,1.14,6.88,NA,33,"ANGERS",2003,"Rob-pse_0178","ANGERS_Rob-pse_0178_2003",83
+"179","Black locust","Robinia pseudoacacia",1.7,0.57,0.3,0.87,7.24,NA,39,"ANGERS",2003,"Rob-pse_0179","ANGERS_Rob-pse_0179_2003",44
+"180","Black locust","Robinia pseudoacacia",1.51,46.36,15.11,61.48,13.9,NA,53,"ANGERS",2003,"Rob-pse_0180","ANGERS_Rob-pse_0180_2003",101
+"181","Black locust","Robinia pseudoacacia",1.42,53.38,17.1,70.48,16.16,NA,50,"ANGERS",2003,"Rob-pse_0181","ANGERS_Rob-pse_0181_2003",104
+"182","Black locust","Robinia pseudoacacia",1.08,10.49,1.13,11.62,3.67,NA,29,"ANGERS",2003,"Rob-pse_0182","ANGERS_Rob-pse_0182_2003",75
+"183","Black locust","Robinia pseudoacacia",1.17,10.43,1.01,11.44,3.54,NA,30,"ANGERS",2003,"Rob-pse_0183","ANGERS_Rob-pse_0183_2003",71
+"184","Red-barked dogwood","Cornus alba",1.27,0.64,0.53,1.17,0,NA,24,"ANGERS",2003,"Cor-alb_0184","ANGERS_Cor-alb_0184_2003",81
+"185","Red-barked dogwood","Cornus alba",1.27,0.46,0.32,0.78,0,NA,21,"ANGERS",2003,"Cor-alb_0185","ANGERS_Cor-alb_0185_2003",82
+"186","Red-barked dogwood","Cornus alba",1.53,31.39,9.78,41.17,7.9,NA,38,"ANGERS",2003,"Cor-alb_0186","ANGERS_Cor-alb_0186_2003",85
+"187","Red-barked dogwood","Cornus alba",1.53,34.24,10.89,45.13,9.07,NA,39,"ANGERS",2003,"Cor-alb_0187","ANGERS_Cor-alb_0187_2003",75
+"188","Red-barked dogwood","Cornus alba",1.58,24.56,7.38,31.94,6.44,NA,37,"ANGERS",2003,"Cor-alb_0188","ANGERS_Cor-alb_0188_2003",81
+"189","Red-barked dogwood","Cornus alba",1.67,24.56,7.89,32.44,6.82,NA,37,"ANGERS",2003,"Cor-alb_0189","ANGERS_Cor-alb_0189_2003",86
+"190","Laurustinus","Viburnum tinus",1.58,12.53,3.75,16.29,5.25,NA,73,"ANGERS",2003,"Vib-tin_0190","ANGERS_Vib-tin_0190_2003",146
+"191","Laurustinus","Viburnum tinus",1.56,13.24,3.73,16.97,6.44,NA,74,"ANGERS",2003,"Vib-tin_0191","ANGERS_Vib-tin_0191_2003",145
+"192","Laurustinus","Viburnum tinus",1.82,47.37,17.64,65.01,17.47,NA,135,"ANGERS",2003,"Vib-tin_0192","ANGERS_Vib-tin_0192_2003",157
+"193","Laurustinus","Viburnum tinus",1.86,52.66,21.49,74.15,18.41,NA,138,"ANGERS",2003,"Vib-tin_0193","ANGERS_Vib-tin_0193_2003",176
+"194","Laurustinus","Viburnum tinus",1.82,27.42,9.59,37.01,9.91,NA,100,"ANGERS",2003,"Vib-tin_0194","ANGERS_Vib-tin_0194_2003",136
+"195","Laurustinus","Viburnum tinus",1.78,28.02,10.29,38.32,9.54,NA,87,"ANGERS",2003,"Vib-tin_0195","ANGERS_Vib-tin_0195_2003",125
+"196","Dwarf schefflera","Schefflera arboricola",1.68,2.83,2.61,5.44,1.08,NA,79,"ANGERS",2003,"Sch-arb_0196","ANGERS_Sch-arb_0196_2003",326
+"197","Dwarf schefflera","Schefflera arboricola",1.68,2.6,1.74,4.34,1.59,NA,81,"ANGERS",2003,"Sch-arb_0197","ANGERS_Sch-arb_0197_2003",316
+"198","Dwarf schefflera","Schefflera arboricola",1.48,25.82,9.1,34.92,8.1,NA,83,"ANGERS",2003,"Sch-arb_0198","ANGERS_Sch-arb_0198_2003",257
+"199","Dwarf schefflera","Schefflera arboricola",1.5,24.71,9.04,33.74,7.84,NA,81,"ANGERS",2003,"Sch-arb_0199","ANGERS_Sch-arb_0199_2003",252
+"200","Dwarf schefflera","Schefflera arboricola",1.73,34.01,13.16,47.18,11.32,NA,116,"ANGERS",2003,"Sch-arb_0200","ANGERS_Sch-arb_0200_2003",265
+"201","Dwarf schefflera","Schefflera arboricola",1.76,28.85,10.78,39.63,11.05,NA,110,"ANGERS",2003,"Sch-arb_0201","ANGERS_Sch-arb_0201_2003",253
+"202","Sycamore maple","Acer pseudoplatanus",1.36,15.56,4.91,20.47,5.3,NA,23,"ANGERS",2003,"Ace-pse_0202","ANGERS_Ace-pse_0202_2003",88
+"203","Sycamore maple","Acer pseudoplatanus",1.36,16.54,4.81,21.35,5.77,NA,23,"ANGERS",2003,"Ace-pse_0203","ANGERS_Ace-pse_0203_2003",88
+"204","Sycamore maple","Acer pseudoplatanus",1.39,16.11,4.91,21.01,5.47,NA,22,"ANGERS",2003,"Ace-pse_0204","ANGERS_Ace-pse_0204_2003",79
+"205","Sycamore maple","Acer pseudoplatanus",1.39,15.83,4.83,20.66,5.51,NA,24,"ANGERS",2003,"Ace-pse_0205","ANGERS_Ace-pse_0205_2003",79
+"206","Sycamore maple","Acer pseudoplatanus",1.32,14.35,4.27,18.62,4.98,NA,23,"ANGERS",2003,"Ace-pse_0206","ANGERS_Ace-pse_0206_2003",77
+"207","Sycamore maple","Acer pseudoplatanus",1.33,14.61,4.44,19.05,5.16,NA,22,"ANGERS",2003,"Ace-pse_0207","ANGERS_Ace-pse_0207_2003",81
+"208","Tuliptree","Liriodendron tulipifera",1.55,31.26,10.44,41.69,14.27,NA,44,"ANGERS",2003,"Lir-tul_0208","ANGERS_Lir-tul_0208_2003",101
+"209","Tuliptree","Liriodendron tulipifera",1.43,27.2,8.82,36.01,14.48,NA,45,"ANGERS",2003,"Lir-tul_0209","ANGERS_Lir-tul_0209_2003",106
+"210","Japanese snowball","Viburnum plicatum",1.79,46.05,15.94,61.99,12.18,NA,68,"ANGERS",2003,"Vib-pli_0210","ANGERS_Vib-pli_0210_2003",120
+"211","Japanese snowball","Viburnum plicatum",1.77,40.27,12.67,52.94,11.81,NA,61,"ANGERS",2003,"Vib-pli_0211","ANGERS_Vib-pli_0211_2003",102
+"212","European chestnut","Castanea sativa",1.39,28.39,8.25,36.64,8.62,NA,63,"ANGERS",2003,"Castanea sativa_0212","ANGERS_Castanea sativa_0212_2003",73
+"213","European chestnut","Castanea sativa",1.41,23.49,7.14,30.62,6.67,NA,66,"ANGERS",2003,"Castanea sativa_0213","ANGERS_Castanea sativa_0213_2003",89
+"214","Portugal laurel","Prunus lusitanica",2.05,53.21,19.6,72.81,18.19,NA,157,"ANGERS",2003,"Pru-lus_0214","ANGERS_Pru-lus_0214_2003",194
+"215","Portugal laurel","Prunus lusitanica",1.94,19.28,5.09,24.37,7.34,NA,103,"ANGERS",2003,"Pru-lus_0215","ANGERS_Pru-lus_0215_2003",145
+"216","English walnut","Juglans regia",1.59,38.67,13.19,51.86,20.6,NA,79,"ANGERS",2003,"Jug-reg_0216","ANGERS_Jug-reg_0216_2003",133
+"217","English walnut","Juglans regia",1.52,30.4,12.46,42.86,19.82,NA,68,"ANGERS",2003,"Jug-reg_0217","ANGERS_Jug-reg_0217_2003",117
+"218","Cherry laurel","Prunus laurocerasus",2.1,26.53,9.07,35.6,6.89,NA,91,"ANGERS",2003,"Pru-lau_0218","ANGERS_Pru-lau_0218_2003",181
+"219","Cherry laurel","Prunus laurocerasus",1.95,17.57,5.32,22.89,4.66,NA,94,"ANGERS",2003,"Pru-lau_0219","ANGERS_Pru-lau_0219_2003",197
+"220","Otto Luyken English laurel","Prunus laurocerasus",1.98,53.11,16.96,70.07,18.87,NA,131,"ANGERS",2003,"Pru-lau_0220","ANGERS_Pru-lau_0220_2003",214
+"221","Otto Luyken English laurel","Prunus laurocerasus",2,47.45,15.3,62.75,15.21,NA,128,"ANGERS",2003,"Pru-lau_0221","ANGERS_Pru-lau_0221_2003",213
+"222","Staghorn sumac","Rhus typhina",1.52,29.59,9.07,38.66,10.29,NA,69,"ANGERS",2003,"Rhu-typ_0222","ANGERS_Rhu-typ_0222_2003",96
+"223","Staghorn sumac","Rhus typhina",1.48,25.66,7.54,33.2,10.36,NA,74,"ANGERS",2003,"Rhu-typ_0223","ANGERS_Rhu-typ_0223_2003",90
+"224","Wine grape","Vitis vinifera",1.47,12.69,4.47,17.16,5.73,NA,51,"ANGERS",2003,"Vit-vin_0224","ANGERS_Vit-vin_0224_2003",105
+"225","Wine grape","Vitis vinifera",1.29,14.11,4.9,19.02,5.43,NA,41,"ANGERS",2003,"Vit-vin_0225","ANGERS_Vit-vin_0225_2003",95
+"226","Boston ivy","Parthenocissus tricuspidata",1.64,9.32,3.7,13.02,4.47,NA,51,"ANGERS",2003,"Parthenocissus tricuspidata_0226","ANGERS_Parthenocissus tricuspidata_0226_2003",134
+"227","Boston ivy","Parthenocissus tricuspidata",1.32,11.1,3.66,14.76,4.23,NA,46,"ANGERS",2003,"Parthenocissus tricuspidata_0227","ANGERS_Parthenocissus tricuspidata_0227_2003",142
+"228","European alder","Alnus glutinosa",1.68,52.64,20.96,73.6,14.02,NA,56,"ANGERS",2003,"Aln-glu_0228","ANGERS_Aln-glu_0228_2003",107
+"229","European alder","Alnus glutinosa",1.52,43.86,14.86,58.72,11.7,NA,58,"ANGERS",2003,"Aln-glu_0229","ANGERS_Aln-glu_0229_2003",90
+"230","Silver linden","Tilia tomentosa",1.88,44.15,16.04,60.19,12.27,NA,72,"ANGERS",2003,"Tilia tomentosa_0230","ANGERS_Tilia tomentosa_0230_2003",81
+"231","Silver linden","Tilia tomentosa",2.04,23.98,7.42,31.39,7.14,NA,73,"ANGERS",2003,"Tilia tomentosa_0231","ANGERS_Tilia tomentosa_0231_2003",70
+"232","Pin oak","Quercus palustris",1.31,40.04,14.28,54.32,10.67,NA,57,"ANGERS",2003,"Quercus palustris_0232","ANGERS_Quercus palustris_0232_2003",61
+"233","Pin oak","Quercus palustris",1.26,34.86,12.64,47.5,9.97,NA,50,"ANGERS",2003,"Quercus palustris_0233","ANGERS_Quercus palustris_0233_2003",50
+"234","European privet","Ligustrum vulgare",2.05,40.45,12.24,52.69,13.62,NA,121,"ANGERS",2003,"Ligustrum vulgare_0234","ANGERS_Ligustrum vulgare_0234_2003",185
+"235","European privet","Ligustrum vulgare",2.06,15.03,4.83,19.87,4.84,NA,64,"ANGERS",2003,"Ligustrum vulgare_0235","ANGERS_Ligustrum vulgare_0235_2003",140
+"236","Large gray willow","Salix atrocinerea",1.73,38.06,12.27,50.33,8.5,NA,69,"ANGERS",2003,"Salix atrocinerea_0236","ANGERS_Salix atrocinerea_0236_2003",75
+"237","Large gray willow","Salix atrocinerea",1.56,42.53,13.52,56.05,10.49,NA,84,"ANGERS",2003,"Salix atrocinerea_0237","ANGERS_Salix atrocinerea_0237_2003",113
+"238","White poplar","Populus alba",2.71,41.76,15.38,57.14,12.29,NA,66,"ANGERS",2003,"Pop-alb_0238","ANGERS_Pop-alb_0238_2003",89
+"239","White poplar","Populus alba",2.69,43.54,17.61,61.15,11.74,NA,63,"ANGERS",2003,"Pop-alb_0239","ANGERS_Pop-alb_0239_2003",89
+"240","English ivy","Hedera helix",1.79,37.93,13.66,51.58,12.75,NA,98,"ANGERS",2003,"Hed-hel_0240","ANGERS_Hed-hel_0240_2003",183
+"241","English ivy","Hedera helix",1.9,1.01,0.74,1.75,0.68,NA,47,"ANGERS",2003,"Hed-hel_0241","ANGERS_Hed-hel_0241_2003",157
+"242","Holly oak","Quercus ilex",2.43,40.76,14.47,55.23,10.85,NA,150,"ANGERS",2003,"Que-ile_0242","ANGERS_Que-ile_0242_2003",127
+"243","Holly oak","Quercus ilex",2.41,39.92,14.68,54.6,10.18,NA,150,"ANGERS",2003,"Que-ile_0243","ANGERS_Que-ile_0243_2003",130
+"244","Leatherleaf arrowwood","Viburnum rhytidophyllum",2.35,43.27,11.28,54.55,10.72,NA,92,"ANGERS",2003,"Viburnum rhytidophyllum_0244","ANGERS_Viburnum rhytidophyllum_0244_2003",119
+"245","Leatherleaf arrowwood","Viburnum rhytidophyllum",2.16,36.38,10.21,46.59,9.49,NA,85,"ANGERS",2003,"Viburnum rhytidophyllum_0245","ANGERS_Viburnum rhytidophyllum_0245_2003",126
+"246","Rhododendron calophytum","Rhododendron calophytum",2.02,49.64,16.6,66.23,14.44,NA,117,"ANGERS",2003,"Rhododendron calophytum_0246","ANGERS_Rhododendron calophytum_0246_2003",155
+"247","Rhododendron calophytum","Rhododendron calophytum",2,38.74,13.63,52.37,10.95,NA,108,"ANGERS",2003,"Rhododendron calophytum_0247","ANGERS_Rhododendron calophytum_0247_2003",158
+"248","Sweetgum","Liquidambar styraciflua",1.54,27.96,8.93,36.89,9.7,NA,55,"ANGERS",2003,"Liq-sty_0248","ANGERS_Liq-sty_0248_2003",105
+"249","Sweetgum","Liquidambar styraciflua",1.58,21.75,6.22,27.97,8.3,NA,78,"ANGERS",2003,"Liq-sty_0249","ANGERS_Liq-sty_0249_2003",111
+"250","Wintercreeper","Euonymus fortunei",1.57,0.85,0.48,1.33,2.35,NA,33,"ANGERS",2003,"Euo-for_0250","ANGERS_Euo-for_0250_2003",166
+"251","Wintercreeper","Euonymus fortunei",1.54,8.71,1.52,10.23,2.84,NA,36,"ANGERS",2003,"Euo-for_0251","ANGERS_Euo-for_0251_2003",169
+"252","Wintercreeper","Euonymus fortunei",1.67,28.36,9.26,37.62,8.01,NA,46,"ANGERS",2003,"Euo-for_0252","ANGERS_Euo-for_0252_2003",167
+"253","Wintercreeper","Euonymus fortunei",1.83,20.69,6.3,26.98,7.71,NA,71,"ANGERS",2003,"Euo-for_0253","ANGERS_Euo-for_0253_2003",217
+"254","Wintercreeper","Euonymus fortunei",1.93,0.41,0.51,0.92,0.67,NA,58,"ANGERS",2003,"Euo-for_0254","ANGERS_Euo-for_0254_2003",157
+"255","Wintercreeper","Euonymus fortunei",2.02,34.8,10.79,45.59,10.8,NA,83,"ANGERS",2003,"Euo-for_0255","ANGERS_Euo-for_0255_2003",150
+"256","Sycamore maple","Acer pseudoplatanus",1.67,22.53,6.9,29.43,7.78,NA,36,"ANGERS",2003,"Ace-pse_0256","ANGERS_Ace-pse_0256_2003",109
+"257","Geranium","Geranium",1.78,0.99,0.3,1.29,0.06,NA,18,"ANGERS",2003,"Geranium_0257","ANGERS_Geranium_0257_2003",179
+"258","Variegated boxelder","Acer negundo",1.2,0.72,0.83,1.56,0.04,NA,22,"ANGERS",2003,"Ace-neg_0258","ANGERS_Ace-neg_0258_2003",84
+"259","Variegated boxelder","Acer negundo",1.22,20.39,6.56,26.96,8.04,NA,42,"ANGERS",2003,"Ace-neg_0259","ANGERS_Ace-neg_0259_2003",108
+"260","European smoketree","Cotinus coggygria",1.71,29.56,9.02,38.58,12.01,NA,92,"ANGERS",2003,"Cotinus coggygria_0260","ANGERS_Cotinus coggygria_0260_2003",115
+"261","Judas-tree","Cercis siliquastrum",1.45,24.42,7.06,31.48,9.23,NA,58,"ANGERS",2003,"Cercis siliquastrum_0261","ANGERS_Cercis siliquastrum_0261_2003",114
+"262","Judas-tree","Cercis siliquastrum",1.42,17.75,5.3,23.05,6.91,NA,56,"ANGERS",2003,"Cercis siliquastrum_0262","ANGERS_Cercis siliquastrum_0262_2003",124
+"263","Beautyberry","Callicarpa bodinieri",1.46,11.07,4.09,15.16,5.83,NA,72,"ANGERS",2003,"Calicarpa bodinieri_0263","ANGERS_Calicarpa bodinieri_0263_2003",129
+"264","Beautyberry","Callicarpa bodinieri",1.56,15.38,5.93,21.31,7.68,NA,71,"ANGERS",2003,"Calicarpa bodinieri_0264","ANGERS_Calicarpa bodinieri_0264_2003",112
+"265","Common lilac","Syringa vulgaris",1.56,47.3,15.63,62.93,15.39,NA,84,"ANGERS",2003,"Syr-vul_0265","ANGERS_Syr-vul_0265_2003",146
+"266","Common lilac","Syringa vulgaris",1.62,41.05,14.62,55.67,12.71,NA,72,"ANGERS",2003,"Syr-vul_0266","ANGERS_Syr-vul_0266_2003",132
+"267","Cider gum","Eucalyptus gunnii",1.41,31.63,12.27,43.9,11.25,NA,112,"ANGERS",2003,"Eucalyptus gunnii_0267","ANGERS_Eucalyptus gunnii_0267_2003",260
+"268","Cider gum","Eucalyptus gunnii",1.46,31.81,12,43.8,11.19,NA,110,"ANGERS",2003,"Eucalyptus gunnii_0268","ANGERS_Eucalyptus gunnii_0268_2003",264
+"269","English holly","Ilex aquifolium",2,1.75,0.61,2.36,0.76,NA,89,"ANGERS",2003,"Ile-aqu_0269","ANGERS_Ile-aqu_0269_2003",259
+"270","English holly","Ilex aquifolium",2.22,64.9,22.7,87.6,20.77,NA,189,"ANGERS",2003,"Ile-aqu_0270","ANGERS_Ile-aqu_0270_2003",287
+"271","Holly osmanthus","Osmanthus heterophyllus",2.36,26.16,10.95,37.11,9.13,NA,331,"ANGERS",2003,"Osmanthus heterophyllus_0271","ANGERS_Osmanthus heterophyllus_0271_2003",337
+"272","Holly osmanthus","Osmanthus heterophyllus",2.48,24.88,11.58,36.46,7.86,NA,326,"ANGERS",2003,"Osmanthus heterophyllus_0272","ANGERS_Osmanthus heterophyllus_0272_2003",340
+"273","Hortensia","Hydrangea macrophylla",1.56,18.88,8.4,27.28,5.61,NA,17,"ANGERS",2003,"Hyd-mac_0273","ANGERS_Hyd-mac_0273_2003",180
+"274","Hortensia","Hydrangea macrophylla",1.64,32.3,13.99,46.29,9.1,NA,34,"ANGERS",2003,"Hyd-mac_0274","ANGERS_Hyd-mac_0274_2003",261
+"275","Weigela florida","Weigela florida",1.97,23.82,8.26,32.08,9.14,NA,81,"ANGERS",2003,"Wei-flo_0275","ANGERS_Wei-flo_0275_2003",215
+"276","Weigela florida","Weigela florida",1.94,21.34,7.88,29.22,6.97,NA,91,"ANGERS",2003,"Wei-flo_0276","ANGERS_Wei-flo_0276_2003",188

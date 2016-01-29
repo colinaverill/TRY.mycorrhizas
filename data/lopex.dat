@@ -1,0 +1,331 @@
+"","species_common","species_scientific","leaf_nlayers","leaf_chlorophyll_a","leaf_chlorophyll_b","leaf_chlorophyll_total","leaf_carotenoid_total","leaf_anthocyanin_total","LMA","leafC","leafH","leafO","leafN","project","sample_year","sample_name","sample_id","leaf_water_content","c2n_leaf","leaf_protein_percent","leaf_cellulose_percent","leaf_lignin_percent","leaf_starch_percent"
+"1","Red clover","Trifolium pratense",1.7,33.11,11.56,44.67,6.34,NA,29,46.63,6.18,37.39,5.14,"LOPEX",1993,"Tri-pra_Leaf01","LOPEX_Tri-pra_Leaf01_1993",105,9.07198443579767,31.52,13.94,2.6,2.43
+"2","Red clover","Trifolium pratense",1.64,33.11,11.56,44.67,6.34,NA,25,46.63,6.18,37.39,5.14,"LOPEX",1993,"Tri-pra_Leaf01","LOPEX_Tri-pra_Leaf01_1993",98,9.07198443579767,31.52,13.94,2.6,2.43
+"3","Red clover","Trifolium pratense",1.6,33.11,11.56,44.67,6.34,NA,27,46.63,6.18,37.39,5.14,"LOPEX",1993,"Tri-pra_Leaf01","LOPEX_Tri-pra_Leaf01_1993",85,9.07198443579767,31.52,13.94,2.6,2.43
+"4","Red clover","Trifolium pratense",2.19,33.11,11.56,44.67,6.34,NA,41,46.63,6.18,37.39,5.14,"LOPEX",1993,"Tri-pra_Leaf01","LOPEX_Tri-pra_Leaf01_1993",116,9.07198443579767,31.52,13.94,2.6,2.43
+"5","Red clover","Trifolium pratense",1.89,33.11,11.56,44.67,6.34,NA,33,46.63,6.18,37.39,5.14,"LOPEX",1993,"Tri-pra_Leaf01","LOPEX_Tri-pra_Leaf01_1993",98,9.07198443579767,31.52,13.94,2.6,2.43
+"6","Johnsongrass","Sorghum halepense",1.46,36.27,8.18,44.45,10.53,NA,40,47.03,6.31,39.02,3.31,"LOPEX",1993,"Sor-hal_Leaf02","LOPEX_Sor-hal_Leaf02_1993",123,14.2084592145015,23.95,27.455,3.515,0.4
+"7","Johnsongrass","Sorghum halepense",1.78,36.27,8.18,44.45,10.53,NA,40,47.03,6.31,39.02,3.31,"LOPEX",1993,"Sor-hal_Leaf02","LOPEX_Sor-hal_Leaf02_1993",111,14.2084592145015,23.95,27.455,3.515,0.4
+"8","Johnsongrass","Sorghum halepense",1.36,36.27,8.18,44.45,10.53,NA,36,47.03,6.31,39.02,3.31,"LOPEX",1993,"Sor-hal_Leaf02","LOPEX_Sor-hal_Leaf02_1993",124,14.2084592145015,23.95,27.455,3.515,0.4
+"9","Johnsongrass","Sorghum halepense",1.41,36.27,8.18,44.45,10.53,NA,39,47.03,6.31,39.02,3.31,"LOPEX",1993,"Sor-hal_Leaf02","LOPEX_Sor-hal_Leaf02_1993",134,14.2084592145015,23.95,27.455,3.515,0.4
+"10","Johnsongrass","Sorghum halepense",1.46,36.27,8.18,44.45,10.53,NA,38,47.03,6.31,39.02,3.31,"LOPEX",1993,"Sor-hal_Leaf02","LOPEX_Sor-hal_Leaf02_1993",134,14.2084592145015,23.95,27.455,3.515,0.4
+"11","Wild grape","Vitis vinifera",1.51,14.54,4.08,18.62,5.65,NA,53,45.99,5.65,43.88,1.94,"LOPEX",1993,"Vit-vin_Leaf03","LOPEX_Vit-vin_Leaf03_1993",125,23.7061855670103,11.375,10.325,12.785,7.19
+"12","Wild grape","Vitis vinifera",1.4,14.54,4.08,18.62,5.65,NA,45,45.99,5.65,43.88,1.94,"LOPEX",1993,"Vit-vin_Leaf03","LOPEX_Vit-vin_Leaf03_1993",122,23.7061855670103,11.375,10.325,12.785,7.19
+"13","Wild grape","Vitis vinifera",1.46,14.54,4.08,18.62,5.65,NA,47,45.99,5.65,43.88,1.94,"LOPEX",1993,"Vit-vin_Leaf03","LOPEX_Vit-vin_Leaf03_1993",117,23.7061855670103,11.375,10.325,12.785,7.19
+"14","Wild grape","Vitis vinifera",1.61,14.54,4.08,18.62,5.65,NA,54,45.99,5.65,43.88,1.94,"LOPEX",1993,"Vit-vin_Leaf03","LOPEX_Vit-vin_Leaf03_1993",117,23.7061855670103,11.375,10.325,12.785,7.19
+"15","Wild grape","Vitis vinifera",1.46,14.54,4.08,18.62,5.65,NA,47,45.99,5.65,43.88,1.94,"LOPEX",1993,"Vit-vin_Leaf03","LOPEX_Vit-vin_Leaf03_1993",123,23.7061855670103,11.375,10.325,12.785,7.19
+"16","European ash","Fraxinus excelsior",1.65,53.57,16.82,70.39,13.36,NA,63,45.96,5.95,38.99,3.24,"LOPEX",1993,"Fra-exc_Leaf04","LOPEX_Fra-exc_Leaf04_1993",112,14.1851851851852,20.525,12.945,16.025,2.12
+"17","European ash","Fraxinus excelsior",1.64,53.57,16.82,70.39,13.36,NA,58,45.96,5.95,38.99,3.24,"LOPEX",1993,"Fra-exc_Leaf04","LOPEX_Fra-exc_Leaf04_1993",110,14.1851851851852,20.525,12.945,16.025,2.12
+"18","European ash","Fraxinus excelsior",1.65,53.57,16.82,70.39,13.36,NA,48,45.96,5.95,38.99,3.24,"LOPEX",1993,"Fra-exc_Leaf04","LOPEX_Fra-exc_Leaf04_1993",99,14.1851851851852,20.525,12.945,16.025,2.12
+"19","European ash","Fraxinus excelsior",1.71,53.57,16.82,70.39,13.36,NA,68,45.96,5.95,38.99,3.24,"LOPEX",1993,"Fra-exc_Leaf04","LOPEX_Fra-exc_Leaf04_1993",116,14.1851851851852,20.525,12.945,16.025,2.12
+"20","European ash","Fraxinus excelsior",1.61,53.57,16.82,70.39,13.36,NA,72,45.96,5.95,38.99,3.24,"LOPEX",1993,"Fra-exc_Leaf04","LOPEX_Fra-exc_Leaf04_1993",129,14.1851851851852,20.525,12.945,16.025,2.12
+"21","Garden lettuce","Lactuca sativa",1.9,20.23,7.01,27.23,6.16,NA,20,NA,NA,NA,NA,"LOPEX",1993,"Lac-sat_Leaf05","LOPEX_Lac-sat_Leaf05_1993",252,NA,35.55,14.61,2.765,2.495
+"22","Garden lettuce","Lactuca sativa",1.821096689,20.23,7.01,27.23,6.16,NA,19,NA,NA,NA,NA,"LOPEX",1993,"Lac-sat_Leaf05","LOPEX_Lac-sat_Leaf05_1993",240,NA,35.55,14.61,2.765,2.495
+"23","Garden lettuce","Lactuca sativa",2.07,20.23,7.01,27.23,6.16,NA,17,NA,NA,NA,NA,"LOPEX",1993,"Lac-sat_Leaf05","LOPEX_Lac-sat_Leaf05_1993",215,NA,35.55,14.61,2.765,2.495
+"24","Garden lettuce","Lactuca sativa",2.04,20.23,7.01,27.23,6.16,NA,20,NA,NA,NA,NA,"LOPEX",1993,"Lac-sat_Leaf05","LOPEX_Lac-sat_Leaf05_1993",236,NA,35.55,14.61,2.765,2.495
+"25","Garden lettuce","Lactuca sativa",1.71,20.23,7.01,27.23,6.16,NA,17,NA,NA,NA,NA,"LOPEX",1993,"Lac-sat_Leaf05","LOPEX_Lac-sat_Leaf05_1993",212,NA,35.55,14.61,2.765,2.495
+"26","Cherry laurel","Prunus laurocerasus",2.48,56.14,22.73,78.87,16.57,NA,120,48.5,6.16,39.99,1.29,"LOPEX",1993,"Pru-lau_Leaf06","LOPEX_Pru-lau_Leaf06_1993",202,37.5968992248062,7.395,15.48,17.225,7.28
+"27","Cherry laurel","Prunus laurocerasus",2.74,56.14,22.73,78.87,16.57,NA,157,48.5,6.16,39.99,1.29,"LOPEX",1993,"Pru-lau_Leaf06","LOPEX_Pru-lau_Leaf06_1993",208,37.5968992248062,7.395,15.48,17.225,7.28
+"28","Cherry laurel","Prunus laurocerasus",2.52,56.14,22.73,78.87,16.57,NA,135,48.5,6.16,39.99,1.29,"LOPEX",1993,"Pru-lau_Leaf06","LOPEX_Pru-lau_Leaf06_1993",194,37.5968992248062,7.395,15.48,17.225,7.28
+"29","Cherry laurel","Prunus laurocerasus",2.47,56.14,22.73,78.87,16.57,NA,121,48.5,6.16,39.99,1.29,"LOPEX",1993,"Pru-lau_Leaf06","LOPEX_Pru-lau_Leaf06_1993",177,37.5968992248062,7.395,15.48,17.225,7.28
+"30","Cherry laurel","Prunus laurocerasus",2.71,56.14,22.73,78.87,16.57,NA,152,48.5,6.16,39.99,1.29,"LOPEX",1993,"Pru-lau_Leaf06","LOPEX_Pru-lau_Leaf06_1993",213,37.5968992248062,7.395,15.48,17.225,7.28
+"31","Carolina poplar","Populus canadensis",1.28,21.83,7.92,29.75,5.17,NA,55,47.03,6.5,37.78,2.83,"LOPEX",1993,"Populus x canadensis_Leaf07","LOPEX_Populus x canadensis_Leaf07_1993",110,16.6183745583039,17.94,14.94,10.58,1.61
+"32","Carolina poplar","Populus canadensis",1.57,21.83,7.92,29.75,5.17,NA,63,47.03,6.5,37.78,2.83,"LOPEX",1993,"Populus x canadensis_Leaf07","LOPEX_Populus x canadensis_Leaf07_1993",84,16.6183745583039,17.94,14.94,10.58,1.61
+"33","Carolina poplar","Populus canadensis",1.32,21.83,7.92,29.75,5.17,NA,63,47.03,6.5,37.78,2.83,"LOPEX",1993,"Populus x canadensis_Leaf07","LOPEX_Populus x canadensis_Leaf07_1993",111,16.6183745583039,17.94,14.94,10.58,1.61
+"34","Carolina poplar","Populus canadensis",1.17,21.83,7.92,29.75,5.17,NA,42,47.03,6.5,37.78,2.83,"LOPEX",1993,"Populus x canadensis_Leaf07","LOPEX_Populus x canadensis_Leaf07_1993",100,16.6183745583039,17.94,14.94,10.58,1.61
+"35","Carolina poplar","Populus canadensis",1.35,21.83,7.92,29.75,5.17,NA,46,47.03,6.5,37.78,2.83,"LOPEX",1993,"Populus x canadensis_Leaf07","LOPEX_Populus x canadensis_Leaf07_1993",84,16.6183745583039,17.94,14.94,10.58,1.61
+"36","Alfalfa","Medicago sativa",1.83,34.32,9.41,43.73,9.78,NA,36,46.68,6.28,36.93,5.15,"LOPEX",1993,"Med-sat_Leaf08","LOPEX_Med-sat_Leaf08_1993",119,9.06407766990291,32.855,6.72,3.055,6.505
+"37","Alfalfa","Medicago sativa",1.62,34.32,9.41,43.73,9.78,NA,32,46.68,6.28,36.93,5.15,"LOPEX",1993,"Med-sat_Leaf08","LOPEX_Med-sat_Leaf08_1993",121,9.06407766990291,32.855,6.72,3.055,6.505
+"38","Alfalfa","Medicago sativa",1.65,34.32,9.41,43.73,9.78,NA,27,46.68,6.28,36.93,5.15,"LOPEX",1993,"Med-sat_Leaf08","LOPEX_Med-sat_Leaf08_1993",114,9.06407766990291,32.855,6.72,3.055,6.505
+"39","Alfalfa","Medicago sativa",1.66,34.32,9.41,43.73,9.78,NA,29,46.68,6.28,36.93,5.15,"LOPEX",1993,"Med-sat_Leaf08","LOPEX_Med-sat_Leaf08_1993",98,9.06407766990291,32.855,6.72,3.055,6.505
+"40","Alfalfa","Medicago sativa",1.84,34.32,9.41,43.73,9.78,NA,31,46.68,6.28,36.93,5.15,"LOPEX",1993,"Med-sat_Leaf08","LOPEX_Med-sat_Leaf08_1993",112,9.06407766990291,32.855,6.72,3.055,6.505
+"41","Corn","Zea mays",1.54,37.77,10.37,48.15,8.61,NA,36,47.03,6.63,37.49,4.36,"LOPEX",1993,"Zea-may_Leaf09","LOPEX_Zea-may_Leaf09_1993",127,10.7866972477064,25.93,24.2,2.61,4.91
+"42","Corn","Zea mays",1.49,37.77,10.37,48.15,8.61,NA,36,47.03,6.63,37.49,4.36,"LOPEX",1993,"Zea-may_Leaf09","LOPEX_Zea-may_Leaf09_1993",124,10.7866972477064,25.93,24.2,2.61,4.91
+"43","Corn","Zea mays",1.55,37.77,10.37,48.15,8.61,NA,34,47.03,6.63,37.49,4.36,"LOPEX",1993,"Zea-may_Leaf09","LOPEX_Zea-may_Leaf09_1993",140,10.7866972477064,25.93,24.2,2.61,4.91
+"44","Corn","Zea mays",1.48,37.77,10.37,48.15,8.61,NA,41,47.03,6.63,37.49,4.36,"LOPEX",1993,"Zea-may_Leaf09","LOPEX_Zea-may_Leaf09_1993",126,10.7866972477064,25.93,24.2,2.61,4.91
+"45","Corn","Zea mays",1.47,37.77,10.37,48.15,8.61,NA,37,47.03,6.63,37.49,4.36,"LOPEX",1993,"Zea-may_Leaf09","LOPEX_Zea-may_Leaf09_1993",136,10.7866972477064,25.93,24.2,2.61,4.91
+"46","Irish potato","Solanum tuberosum",1.59,26.92,8.91,35.83,5.49,NA,25,43.44,5.61,38.28,4.93,"LOPEX",1993,"Sol-tub_Leaf10","LOPEX_Sol-tub_Leaf10_1993",174,8.81135902636917,31.13,12.75,1.855,2.545
+"47","Irish potato","Solanum tuberosum",1.66,26.92,8.91,35.83,5.49,NA,28,43.44,5.61,38.28,4.93,"LOPEX",1993,"Sol-tub_Leaf10","LOPEX_Sol-tub_Leaf10_1993",161,8.81135902636917,31.13,12.75,1.855,2.545
+"48","Irish potato","Solanum tuberosum",1.75,26.92,8.91,35.83,5.49,NA,25,43.44,5.61,38.28,4.93,"LOPEX",1993,"Sol-tub_Leaf10","LOPEX_Sol-tub_Leaf10_1993",160,8.81135902636917,31.13,12.75,1.855,2.545
+"49","Irish potato","Solanum tuberosum",1.76,26.92,8.91,35.83,5.49,NA,26,43.44,5.61,38.28,4.93,"LOPEX",1993,"Sol-tub_Leaf10","LOPEX_Sol-tub_Leaf10_1993",169,8.81135902636917,31.13,12.75,1.855,2.545
+"50","Irish potato","Solanum tuberosum",1.74,26.92,8.91,35.83,5.49,NA,25,43.44,5.61,38.28,4.93,"LOPEX",1993,"Sol-tub_Leaf10","LOPEX_Sol-tub_Leaf10_1993",188,8.81135902636917,31.13,12.75,1.855,2.545
+"51","Corn","Zea mays",1.34,33.49,11.77,45.27,8.85,NA,47,46.32,6.34,38.34,3.65,"LOPEX",1993,"Zea-may_Leaf11","LOPEX_Zea-may_Leaf11_1993",137,12.6904109589041,24.87,24.245,2.57,NA
+"52","Corn","Zea mays",1.32,33.49,11.77,45.27,8.85,NA,50,46.32,6.34,38.34,3.65,"LOPEX",1993,"Zea-may_Leaf11","LOPEX_Zea-may_Leaf11_1993",145,12.6904109589041,24.87,24.245,2.57,NA
+"53","Corn","Zea mays",1.49,33.49,11.77,45.27,8.85,NA,40,46.32,6.34,38.34,3.65,"LOPEX",1993,"Zea-may_Leaf11","LOPEX_Zea-may_Leaf11_1993",106,12.6904109589041,24.87,24.245,2.57,NA
+"54","Corn","Zea mays",1.32,33.49,11.77,45.27,8.85,NA,47,46.32,6.34,38.34,3.65,"LOPEX",1993,"Zea-may_Leaf11","LOPEX_Zea-may_Leaf11_1993",132,12.6904109589041,24.87,24.245,2.57,NA
+"55","Corn","Zea mays",1.26,33.49,11.77,45.27,8.85,NA,35,46.32,6.34,38.34,3.65,"LOPEX",1993,"Zea-may_Leaf11","LOPEX_Zea-may_Leaf11_1993",138,12.6904109589041,24.87,24.245,2.57,NA
+"56","Cherry laurel","Prunus laurocerasus",2.28,33.09,12.47,45.57,9.05,NA,102,48.2,6.28,40.95,1.58,"LOPEX",1993,"Pru-lau_Leaf12","LOPEX_Pru-lau_Leaf12_1993",184,30.506329113924,9.48,18.1,19.695,3.695
+"57","Cherry laurel","Prunus laurocerasus",2.33,33.09,12.47,45.57,9.05,NA,118,48.2,6.28,40.95,1.58,"LOPEX",1993,"Pru-lau_Leaf12","LOPEX_Pru-lau_Leaf12_1993",213,30.506329113924,9.48,18.1,19.695,3.695
+"58","Cherry laurel","Prunus laurocerasus",2.08,33.09,12.47,45.57,9.05,NA,82,48.2,6.28,40.95,1.58,"LOPEX",1993,"Pru-lau_Leaf12","LOPEX_Pru-lau_Leaf12_1993",162,30.506329113924,9.48,18.1,19.695,3.695
+"59","Cherry laurel","Prunus laurocerasus",2.32,33.09,12.47,45.57,9.05,NA,107,48.2,6.28,40.95,1.58,"LOPEX",1993,"Pru-lau_Leaf12","LOPEX_Pru-lau_Leaf12_1993",201,30.506329113924,9.48,18.1,19.695,3.695
+"60","Cherry laurel","Prunus laurocerasus",2.27,33.09,12.47,45.57,9.05,NA,94,48.2,6.28,40.95,1.58,"LOPEX",1993,"Pru-lau_Leaf12","LOPEX_Pru-lau_Leaf12_1993",180,30.506329113924,9.48,18.1,19.695,3.695
+"61","European beech","Fagus sylvatica",1.23,33.11,13.68,46.79,8.29,NA,27,50,6.44,39.24,2.91,"LOPEX",1993,"Fag-syl_Leaf13","LOPEX_Fag-syl_Leaf13_1993",47,17.1821305841924,17,24.08,16.075,2.78
+"62","European beech","Fagus sylvatica",1.21,33.11,13.68,46.79,8.29,NA,27,50,6.44,39.24,2.91,"LOPEX",1993,"Fag-syl_Leaf13","LOPEX_Fag-syl_Leaf13_1993",43,17.1821305841924,17,24.08,16.075,2.78
+"63","European beech","Fagus sylvatica",1.52,33.11,13.68,46.79,8.29,NA,55,50,6.44,39.24,2.91,"LOPEX",1993,"Fag-syl_Leaf13","LOPEX_Fag-syl_Leaf13_1993",52,17.1821305841924,17,24.08,16.075,2.78
+"64","European beech","Fagus sylvatica",1.19,33.11,13.68,46.79,8.29,NA,27,50,6.44,39.24,2.91,"LOPEX",1993,"Fag-syl_Leaf13","LOPEX_Fag-syl_Leaf13_1993",43,17.1821305841924,17,24.08,16.075,2.78
+"65","European beech","Fagus sylvatica",1.22,33.11,13.68,46.79,8.29,NA,28,50,6.44,39.24,2.91,"LOPEX",1993,"Fag-syl_Leaf13","LOPEX_Fag-syl_Leaf13_1993",45,17.1821305841924,17,24.08,16.075,2.78
+"66","Sweet bay","Laurus nobilis",2.16,44.51,13.71,58.22,12.3,NA,111,48.97,6.78,39.71,1.82,"LOPEX",1993,"Lau-nob_Leaf14","LOPEX_Lau-nob_Leaf14_1993",101,26.9065934065934,11.15,24.355,18.445,4.38
+"67","Sweet bay","Laurus nobilis",1.85,44.51,13.71,58.22,12.3,NA,91,48.97,6.78,39.71,1.82,"LOPEX",1993,"Lau-nob_Leaf14","LOPEX_Lau-nob_Leaf14_1993",93,26.9065934065934,11.15,24.355,18.445,4.38
+"68","Sweet bay","Laurus nobilis",2.26,44.51,13.71,58.22,12.3,NA,128,48.97,6.78,39.71,1.82,"LOPEX",1993,"Lau-nob_Leaf14","LOPEX_Lau-nob_Leaf14_1993",141,26.9065934065934,11.15,24.355,18.445,4.38
+"69","Sweet bay","Laurus nobilis",2.2,44.51,13.71,58.22,12.3,NA,126,48.97,6.78,39.71,1.82,"LOPEX",1993,"Lau-nob_Leaf14","LOPEX_Lau-nob_Leaf14_1993",145,26.9065934065934,11.15,24.355,18.445,4.38
+"70","Sweet bay","Laurus nobilis",1.75,44.51,13.71,58.22,12.3,NA,88,48.97,6.78,39.71,1.82,"LOPEX",1993,"Lau-nob_Leaf14","LOPEX_Lau-nob_Leaf14_1993",113,26.9065934065934,11.15,24.355,18.445,4.38
+"71","Black locust","Robinia pseudoacacia",1.21,29.31,9.3,38.61,6.5,NA,42,50.93,6.13,36.27,3.97,"LOPEX",1993,"Rob-pse_Leaf15","LOPEX_Rob-pse_Leaf15_1993",70,12.8287153652393,25.495,16.785,17.045,4.43
+"72","Black locust","Robinia pseudoacacia",1.29,29.31,9.3,38.61,6.5,NA,32,50.93,6.13,36.27,3.97,"LOPEX",1993,"Rob-pse_Leaf15","LOPEX_Rob-pse_Leaf15_1993",59,12.8287153652393,25.495,16.785,17.045,4.43
+"73","Black locust","Robinia pseudoacacia",1.3,29.31,9.3,38.61,6.5,NA,34,50.93,6.13,36.27,3.97,"LOPEX",1993,"Rob-pse_Leaf15","LOPEX_Rob-pse_Leaf15_1993",58,12.8287153652393,25.495,16.785,17.045,4.43
+"74","Black locust","Robinia pseudoacacia",1.27,29.31,9.3,38.61,6.5,NA,27,50.93,6.13,36.27,3.97,"LOPEX",1993,"Rob-pse_Leaf15","LOPEX_Rob-pse_Leaf15_1993",62,12.8287153652393,25.495,16.785,17.045,4.43
+"75","Black locust","Robinia pseudoacacia",1.29,29.31,9.3,38.61,6.5,NA,35,50.93,6.13,36.27,3.97,"LOPEX",1993,"Rob-pse_Leaf15","LOPEX_Rob-pse_Leaf15_1993",72,12.8287153652393,25.495,16.785,17.045,4.43
+"76","Downy oak","Quercus pubescens",1.43,44.02,15.4,59.42,10.45,NA,69,51.09,7.43,38.78,2.79,"LOPEX",1993,"Quercus pubescens_Leaf16","LOPEX_Quercus pubescens_Leaf16_1993",91,18.3118279569892,16.595,24.745,20.72,1.88
+"77","Downy oak","Quercus pubescens",1.48,44.02,15.4,59.42,10.45,NA,74,51.09,7.43,38.78,2.79,"LOPEX",1993,"Quercus pubescens_Leaf16","LOPEX_Quercus pubescens_Leaf16_1993",87,18.3118279569892,16.595,24.745,20.72,1.88
+"78","Downy oak","Quercus pubescens",1.46,44.02,15.4,59.42,10.45,NA,55,51.09,7.43,38.78,2.79,"LOPEX",1993,"Quercus pubescens_Leaf16","LOPEX_Quercus pubescens_Leaf16_1993",78,18.3118279569892,16.595,24.745,20.72,1.88
+"79","Downy oak","Quercus pubescens",1.4,44.02,15.4,59.42,10.45,NA,53,51.09,7.43,38.78,2.79,"LOPEX",1993,"Quercus pubescens_Leaf16","LOPEX_Quercus pubescens_Leaf16_1993",83,18.3118279569892,16.595,24.745,20.72,1.88
+"80","Downy oak","Quercus pubescens",1.34,44.02,15.4,59.42,10.45,NA,52,51.09,7.43,38.78,2.79,"LOPEX",1993,"Quercus pubescens_Leaf16","LOPEX_Quercus pubescens_Leaf16_1993",75,18.3118279569892,16.595,24.745,20.72,1.88
+"81","Sunflower","Helianthus annuus",1.67,31.84,9.11,40.95,6.76,NA,40,44.08,6.09,34.8,4.29,"LOPEX",1993,"Hel-ann_Leaf17","LOPEX_Hel-ann_Leaf17_1993",170,10.2750582750583,35.32,8.68,7.885,0.83
+"82","Sunflower","Helianthus annuus",1.67,31.84,9.11,40.95,6.76,NA,32,44.08,6.09,34.8,4.29,"LOPEX",1993,"Hel-ann_Leaf17","LOPEX_Hel-ann_Leaf17_1993",183,10.2750582750583,35.32,8.68,7.885,0.83
+"83","Sunflower","Helianthus annuus",1.76,31.84,9.11,40.95,6.76,NA,33,44.08,6.09,34.8,4.29,"LOPEX",1993,"Hel-ann_Leaf17","LOPEX_Hel-ann_Leaf17_1993",187,10.2750582750583,35.32,8.68,7.885,0.83
+"84","Sunflower","Helianthus annuus",1.64,31.84,9.11,40.95,6.76,NA,38,44.08,6.09,34.8,4.29,"LOPEX",1993,"Hel-ann_Leaf17","LOPEX_Hel-ann_Leaf17_1993",227,10.2750582750583,35.32,8.68,7.885,0.83
+"85","Sunflower","Helianthus annuus",1.61,31.84,9.11,40.95,6.76,NA,37,44.08,6.09,34.8,4.29,"LOPEX",1993,"Hel-ann_Leaf17","LOPEX_Hel-ann_Leaf17_1993",187,10.2750582750583,35.32,8.68,7.885,0.83
+"86","Largeleaf linden","Tilia platyphyllos",1.3,13.24,5.25,18.49,3.45,NA,29,47.78,6.98,38.99,3.5,"LOPEX",1993,"Tilia platyphyllos_Leaf18","LOPEX_Tilia platyphyllos_Leaf18_1993",85,13.6514285714286,23.125,17.28,6.925,0.945
+"87","Largeleaf linden","Tilia platyphyllos",1.29,13.24,5.25,18.49,3.45,NA,28,47.78,6.98,38.99,3.5,"LOPEX",1993,"Tilia platyphyllos_Leaf18","LOPEX_Tilia platyphyllos_Leaf18_1993",73,13.6514285714286,23.125,17.28,6.925,0.945
+"88","Largeleaf linden","Tilia platyphyllos",1.23,13.24,5.25,18.49,3.45,NA,25,47.78,6.98,38.99,3.5,"LOPEX",1993,"Tilia platyphyllos_Leaf18","LOPEX_Tilia platyphyllos_Leaf18_1993",77,13.6514285714286,23.125,17.28,6.925,0.945
+"89","Largeleaf linden","Tilia platyphyllos",1.25,13.24,5.25,18.49,3.45,NA,22,47.78,6.98,38.99,3.5,"LOPEX",1993,"Tilia platyphyllos_Leaf18","LOPEX_Tilia platyphyllos_Leaf18_1993",72,13.6514285714286,23.125,17.28,6.925,0.945
+"90","Largeleaf linden","Tilia platyphyllos",1.28,13.24,5.25,18.49,3.45,NA,23,47.78,6.98,38.99,3.5,"LOPEX",1993,"Tilia platyphyllos_Leaf18","LOPEX_Tilia platyphyllos_Leaf18_1993",68,13.6514285714286,23.125,17.28,6.925,0.945
+"91","English walnut","Juglans regia",1.43,45.15,12.58,57.72,9.27,NA,60,46.99,5.88,38.65,3.05,"LOPEX",1993,"Jug-reg_Leaf19","LOPEX_Jug-reg_Leaf19_1993",118,15.4065573770492,20.03,14.91,11.26,2.775
+"92","English walnut","Juglans regia",1.71,45.15,12.58,57.72,9.27,NA,75,46.99,5.88,38.65,3.05,"LOPEX",1993,"Jug-reg_Leaf19","LOPEX_Jug-reg_Leaf19_1993",141,15.4065573770492,20.03,14.91,11.26,2.775
+"93","English walnut","Juglans regia",1.66,45.15,12.58,57.72,9.27,NA,72,46.99,5.88,38.65,3.05,"LOPEX",1993,"Jug-reg_Leaf19","LOPEX_Jug-reg_Leaf19_1993",128,15.4065573770492,20.03,14.91,11.26,2.775
+"94","English walnut","Juglans regia",1.79,45.15,12.58,57.72,9.27,NA,81,46.99,5.88,38.65,3.05,"LOPEX",1993,"Jug-reg_Leaf19","LOPEX_Jug-reg_Leaf19_1993",134,15.4065573770492,20.03,14.91,11.26,2.775
+"95","English walnut","Juglans regia",1.48,45.15,12.58,57.72,9.27,NA,43,46.99,5.88,38.65,3.05,"LOPEX",1993,"Jug-reg_Leaf19","LOPEX_Jug-reg_Leaf19_1993",102,15.4065573770492,20.03,14.91,11.26,2.775
+"96","Common beet","Beta vulgaris",1.95,12.86,7.08,19.94,3.96,NA,44,41.4,6.07,36.39,6,"LOPEX",1993,"Bet-vul_Leaf20","LOPEX_Bet-vul_Leaf20_1993",353,6.9,35.08,6.66,7.285,1.66
+"97","Common beet","Beta vulgaris",1.62,12.86,7.08,19.94,3.96,NA,47,41.4,6.07,36.39,6,"LOPEX",1993,"Bet-vul_Leaf20","LOPEX_Bet-vul_Leaf20_1993",344,6.9,35.08,6.66,7.285,1.66
+"98","Common beet","Beta vulgaris",1.69,12.86,7.08,19.94,3.96,NA,36,41.4,6.07,36.39,6,"LOPEX",1993,"Bet-vul_Leaf20","LOPEX_Bet-vul_Leaf20_1993",267,6.9,35.08,6.66,7.285,1.66
+"99","Common beet","Beta vulgaris",1.89,12.86,7.08,19.94,3.96,NA,60,41.4,6.07,36.39,6,"LOPEX",1993,"Bet-vul_Leaf20","LOPEX_Bet-vul_Leaf20_1993",525,6.9,35.08,6.66,7.285,1.66
+"100","Common beet","Beta vulgaris",1.62,12.86,7.08,19.94,3.96,NA,46,41.4,6.07,36.39,6,"LOPEX",1993,"Bet-vul_Leaf20","LOPEX_Bet-vul_Leaf20_1993",294,6.9,35.08,6.66,7.285,1.66
+"101","Stinging nettle","Urtica dioica",1.64,29.25,10.19,39.44,6.95,NA,36,39.9,5.38,35.96,4.18,"LOPEX",1993,"Urt-dio_Leaf21","LOPEX_Urt-dio_Leaf21_1993",69,9.54545454545454,27.12,12.465,6.91,2.47
+"102","Stinging nettle","Urtica dioica",1.48,29.25,10.19,39.44,6.95,NA,29,39.9,5.38,35.96,4.18,"LOPEX",1993,"Urt-dio_Leaf21","LOPEX_Urt-dio_Leaf21_1993",68,9.54545454545454,27.12,12.465,6.91,2.47
+"103","Stinging nettle","Urtica dioica",1.56,29.25,10.19,39.44,6.95,NA,38,39.9,5.38,35.96,4.18,"LOPEX",1993,"Urt-dio_Leaf21","LOPEX_Urt-dio_Leaf21_1993",79,9.54545454545454,27.12,12.465,6.91,2.47
+"104","Stinging nettle","Urtica dioica",1.6,29.25,10.19,39.44,6.95,NA,19,39.9,5.38,35.96,4.18,"LOPEX",1993,"Urt-dio_Leaf21","LOPEX_Urt-dio_Leaf21_1993",58,9.54545454545454,27.12,12.465,6.91,2.47
+"105","Stinging nettle","Urtica dioica",1.67,29.25,10.19,39.44,6.95,NA,36,39.9,5.38,35.96,4.18,"LOPEX",1993,"Urt-dio_Leaf21","LOPEX_Urt-dio_Leaf21_1993",60,9.54545454545454,27.12,12.465,6.91,2.47
+"106","Rice","Oryza sativa",1.57,25.41,8.04,33.45,6.88,NA,58,44.54,7.74,39.22,3.78,"LOPEX",1993,"Ory-sat_Leaf22","LOPEX_Ory-sat_Leaf22_1993",119,11.7830687830688,23.135,25.375,1.785,NA
+"107","Rice","Oryza sativa",1.65,25.41,8.04,33.45,6.88,NA,33,44.54,7.74,39.22,3.78,"LOPEX",1993,"Ory-sat_Leaf22","LOPEX_Ory-sat_Leaf22_1993",95,11.7830687830688,23.135,25.375,1.785,NA
+"108","Rice","Oryza sativa",1.89,25.41,8.04,33.45,6.88,NA,40,44.54,7.74,39.22,3.78,"LOPEX",1993,"Ory-sat_Leaf22","LOPEX_Ory-sat_Leaf22_1993",105,11.7830687830688,23.135,25.375,1.785,NA
+"109","Rice","Oryza sativa",1.72,25.41,8.04,33.45,6.88,NA,37,44.54,7.74,39.22,3.78,"LOPEX",1993,"Ory-sat_Leaf22","LOPEX_Ory-sat_Leaf22_1993",101,11.7830687830688,23.135,25.375,1.785,NA
+"110","Rice","Oryza sativa",1.942481616,25.41,8.04,33.45,6.88,NA,39,44.54,7.74,39.22,3.78,"LOPEX",1993,"Ory-sat_Leaf22","LOPEX_Ory-sat_Leaf22_1993",100,11.7830687830688,23.135,25.375,1.785,NA
+"111","Timothy","Phleum pratense",1.26,27.93,7.76,35.69,6.57,NA,27,44.69,6.43,39.19,2.87,"LOPEX",1993,"Phl-pra_Leaf23","LOPEX_Phl-pra_Leaf23_1993",90,15.5714285714286,18.96,27.22,3.945,0.4
+"112","Timothy","Phleum pratense",1.09,27.93,7.76,35.69,6.57,NA,22,44.69,6.43,39.19,2.87,"LOPEX",1993,"Phl-pra_Leaf23","LOPEX_Phl-pra_Leaf23_1993",98,15.5714285714286,18.96,27.22,3.945,0.4
+"113","Timothy","Phleum pratense",1.310082671,27.93,7.76,35.69,6.57,NA,29,44.69,6.43,39.19,2.87,"LOPEX",1993,"Phl-pra_Leaf23","LOPEX_Phl-pra_Leaf23_1993",119,15.5714285714286,18.96,27.22,3.945,0.4
+"114","Timothy","Phleum pratense",1.33,27.93,7.76,35.69,6.57,NA,37,44.69,6.43,39.19,2.87,"LOPEX",1993,"Phl-pra_Leaf23","LOPEX_Phl-pra_Leaf23_1993",85,15.5714285714286,18.96,27.22,3.945,0.4
+"115","Timothy","Phleum pratense",1.4,27.93,7.76,35.69,6.57,NA,41,44.69,6.43,39.19,2.87,"LOPEX",1993,"Phl-pra_Leaf23","LOPEX_Phl-pra_Leaf23_1993",115,15.5714285714286,18.96,27.22,3.945,0.4
+"116","Soybean","Glycine max",1.54,24.82,7.42,32.24,6.81,NA,29,45.82,6.06,37.03,5.09,"LOPEX",1993,"Gly-max_Leaf24","LOPEX_Gly-max_Leaf24_1993",91,9.00196463654224,31.35,15.865,3.57,2.67
+"117","Soybean","Glycine max",1.64,24.82,7.42,32.24,6.81,NA,26,45.82,6.06,37.03,5.09,"LOPEX",1993,"Gly-max_Leaf24","LOPEX_Gly-max_Leaf24_1993",95,9.00196463654224,31.35,15.865,3.57,2.67
+"118","Soybean","Glycine max",1.71,24.82,7.42,32.24,6.81,NA,27,45.82,6.06,37.03,5.09,"LOPEX",1993,"Gly-max_Leaf24","LOPEX_Gly-max_Leaf24_1993",83,9.00196463654224,31.35,15.865,3.57,2.67
+"119","Soybean","Glycine max",1.81,24.82,7.42,32.24,6.81,NA,25,45.82,6.06,37.03,5.09,"LOPEX",1993,"Gly-max_Leaf24","LOPEX_Gly-max_Leaf24_1993",90,9.00196463654224,31.35,15.865,3.57,2.67
+"120","Soybean","Glycine max",1.69,24.82,7.42,32.24,6.81,NA,30,45.82,6.06,37.03,5.09,"LOPEX",1993,"Gly-max_Leaf24","LOPEX_Gly-max_Leaf24_1993",78,9.00196463654224,31.35,15.865,3.57,2.67
+"121","Sycamore maple","Acer pseudoplatanus",1.21,32.92,11.79,44.71,9.74,NA,33,47.57,5.99,38.76,2.73,"LOPEX",1993,"Ace-pse_Leaf25","LOPEX_Ace-pse_Leaf25_1993",74,17.4249084249084,18.045,19.08,8.93,1.505
+"122","Sycamore maple","Acer pseudoplatanus",1.25,32.92,11.79,44.71,9.74,NA,38,47.57,5.99,38.76,2.73,"LOPEX",1993,"Ace-pse_Leaf25","LOPEX_Ace-pse_Leaf25_1993",69,17.4249084249084,18.045,19.08,8.93,1.505
+"123","Sycamore maple","Acer pseudoplatanus",1.29,32.92,11.79,44.71,9.74,NA,37,47.57,5.99,38.76,2.73,"LOPEX",1993,"Ace-pse_Leaf25","LOPEX_Ace-pse_Leaf25_1993",69,17.4249084249084,18.045,19.08,8.93,1.505
+"124","Sycamore maple","Acer pseudoplatanus",1.23,32.92,11.79,44.71,9.74,NA,31,47.57,5.99,38.76,2.73,"LOPEX",1993,"Ace-pse_Leaf25","LOPEX_Ace-pse_Leaf25_1993",69,17.4249084249084,18.045,19.08,8.93,1.505
+"125","Sycamore maple","Acer pseudoplatanus",1.22,32.92,11.79,44.71,9.74,NA,26,47.57,5.99,38.76,2.73,"LOPEX",1993,"Ace-pse_Leaf25","LOPEX_Ace-pse_Leaf25_1993",62,17.4249084249084,18.045,19.08,8.93,1.505
+"126","Apricot","Prunus armeniaca",1.48,29.78,10.78,40.56,10.78,NA,57,46.14,6.32,40.36,2.65,"LOPEX",1993,"Pru-arm_Leaf26","LOPEX_Pru-arm_Leaf26_1993",115,17.411320754717,17.055,11.855,8.57,4.335
+"127","Apricot","Prunus armeniaca",1.44,29.78,10.78,40.56,10.78,NA,56,46.14,6.32,40.36,2.65,"LOPEX",1993,"Pru-arm_Leaf26","LOPEX_Pru-arm_Leaf26_1993",112,17.411320754717,17.055,11.855,8.57,4.335
+"128","Apricot","Prunus armeniaca",1.49,29.78,10.78,40.56,10.78,NA,66,46.14,6.32,40.36,2.65,"LOPEX",1993,"Pru-arm_Leaf26","LOPEX_Pru-arm_Leaf26_1993",124,17.411320754717,17.055,11.855,8.57,4.335
+"129","Apricot","Prunus armeniaca",1.52,29.78,10.78,40.56,10.78,NA,62,46.14,6.32,40.36,2.65,"LOPEX",1993,"Pru-arm_Leaf26","LOPEX_Pru-arm_Leaf26_1993",107,17.411320754717,17.055,11.855,8.57,4.335
+"130","Apricot","Prunus armeniaca",1.43,29.78,10.78,40.56,10.78,NA,61,46.14,6.32,40.36,2.65,"LOPEX",1993,"Pru-arm_Leaf26","LOPEX_Pru-arm_Leaf26_1993",114,17.411320754717,17.055,11.855,8.57,4.335
+"131","Black mullberry","Morus nigra",1.38,40.61,10.87,51.47,11.26,NA,50,43.65,6.28,39.87,3.27,"LOPEX",1993,"Mor-nig_Leaf27","LOPEX_Mor-nig_Leaf27_1993",83,13.348623853211,21.405,12.1,4.025,2.845
+"132","Black mullberry","Morus nigra",1.47,40.61,10.87,51.47,11.26,NA,71,43.65,6.28,39.87,3.27,"LOPEX",1993,"Mor-nig_Leaf27","LOPEX_Mor-nig_Leaf27_1993",87,13.348623853211,21.405,12.1,4.025,2.845
+"133","Black mullberry","Morus nigra",1.5,40.61,10.87,51.47,11.26,NA,69,43.65,6.28,39.87,3.27,"LOPEX",1993,"Mor-nig_Leaf27","LOPEX_Mor-nig_Leaf27_1993",101,13.348623853211,21.405,12.1,4.025,2.845
+"134","Black mullberry","Morus nigra",1.57,40.61,10.87,51.47,11.26,NA,72,43.65,6.28,39.87,3.27,"LOPEX",1993,"Mor-nig_Leaf27","LOPEX_Mor-nig_Leaf27_1993",111,13.348623853211,21.405,12.1,4.025,2.845
+"135","Black mullberry","Morus nigra",1.58,40.61,10.87,51.47,11.26,NA,63,43.65,6.28,39.87,3.27,"LOPEX",1993,"Mor-nig_Leaf27","LOPEX_Mor-nig_Leaf27_1993",97,13.348623853211,21.405,12.1,4.025,2.845
+"136","Corn","Zea mays",1.35,38.86,9.79,48.65,8.88,NA,41,44.64,5.8,36.09,4.34,"LOPEX",1993,"Zea-may_Leaf28","LOPEX_Zea-may_Leaf28_1993",142,10.2857142857143,25.49,18.415,2.495,NA
+"137","Corn","Zea mays",1.33,38.86,9.79,48.65,8.88,NA,41,44.64,5.8,36.09,4.34,"LOPEX",1993,"Zea-may_Leaf28","LOPEX_Zea-may_Leaf28_1993",148,10.2857142857143,25.49,18.415,2.495,NA
+"138","Corn","Zea mays",1.33,38.86,9.79,48.65,8.88,NA,34,44.64,5.8,36.09,4.34,"LOPEX",1993,"Zea-may_Leaf28","LOPEX_Zea-may_Leaf28_1993",146,10.2857142857143,25.49,18.415,2.495,NA
+"139","Corn","Zea mays",1.24,38.86,9.79,48.65,8.88,NA,38,44.64,5.8,36.09,4.34,"LOPEX",1993,"Zea-may_Leaf28","LOPEX_Zea-may_Leaf28_1993",137,10.2857142857143,25.49,18.415,2.495,NA
+"140","Corn","Zea mays",1.39,38.86,9.79,48.65,8.88,NA,36,44.64,5.8,36.09,4.34,"LOPEX",1993,"Zea-may_Leaf28","LOPEX_Zea-may_Leaf28_1993",139,10.2857142857143,25.49,18.415,2.495,NA
+"141","European chestnut","Castanea sativa",1.64,27.83,8.09,35.92,8.81,NA,52,48.67,6.54,40.96,2.15,"LOPEX",1993,"Castanea sativa_Leaf29","LOPEX_Castanea sativa_Leaf29_1993",74,22.6372093023256,15.19,19.835,8.65,6.78
+"142","European chestnut","Castanea sativa",1.46,27.83,8.09,35.92,8.81,NA,46,48.67,6.54,40.96,2.15,"LOPEX",1993,"Castanea sativa_Leaf29","LOPEX_Castanea sativa_Leaf29_1993",60,22.6372093023256,15.19,19.835,8.65,6.78
+"143","European chestnut","Castanea sativa",1.48,27.83,8.09,35.92,8.81,NA,52,48.67,6.54,40.96,2.15,"LOPEX",1993,"Castanea sativa_Leaf29","LOPEX_Castanea sativa_Leaf29_1993",69,22.6372093023256,15.19,19.835,8.65,6.78
+"144","European chestnut","Castanea sativa",1.5,27.83,8.09,35.92,8.81,NA,47,48.67,6.54,40.96,2.15,"LOPEX",1993,"Castanea sativa_Leaf29","LOPEX_Castanea sativa_Leaf29_1993",66,22.6372093023256,15.19,19.835,8.65,6.78
+"145","European chestnut","Castanea sativa",1.47,27.83,8.09,35.92,8.81,NA,45,48.67,6.54,40.96,2.15,"LOPEX",1993,"Castanea sativa_Leaf29","LOPEX_Castanea sativa_Leaf29_1993",63,22.6372093023256,15.19,19.835,8.65,6.78
+"146","Common filbert","Corylus avellana",1.7,34.15,10.97,45.12,9.56,NA,43,47.87,6.29,39.37,2.67,"LOPEX",1993,"Cor-ave_Leaf30","LOPEX_Cor-ave_Leaf30_1993",59,17.9288389513109,17.48,16.07,12.94,2.705
+"147","Common filbert","Corylus avellana",1.44,34.15,10.97,45.12,9.56,NA,28,47.87,6.29,39.37,2.67,"LOPEX",1993,"Cor-ave_Leaf30","LOPEX_Cor-ave_Leaf30_1993",45,17.9288389513109,17.48,16.07,12.94,2.705
+"148","Common filbert","Corylus avellana",1.56,34.15,10.97,45.12,9.56,NA,41,47.87,6.29,39.37,2.67,"LOPEX",1993,"Cor-ave_Leaf30","LOPEX_Cor-ave_Leaf30_1993",52,17.9288389513109,17.48,16.07,12.94,2.705
+"149","Common filbert","Corylus avellana",1.53,34.15,10.97,45.12,9.56,NA,29,47.87,6.29,39.37,2.67,"LOPEX",1993,"Cor-ave_Leaf30","LOPEX_Cor-ave_Leaf30_1993",45,17.9288389513109,17.48,16.07,12.94,2.705
+"150","Common filbert","Corylus avellana",1.62,34.15,10.97,45.12,9.56,NA,38,47.87,6.29,39.37,2.67,"LOPEX",1993,"Cor-ave_Leaf30","LOPEX_Cor-ave_Leaf30_1993",51,17.9288389513109,17.48,16.07,12.94,2.705
+"151","Largeleaf linden","Tilia platyphyllos",1.5,45.78,14.52,60.3,16.16,NA,50,44.85,5.74,39.22,2.31,"LOPEX",1993,"Tilia platyphyllos_Leaf31","LOPEX_Tilia platyphyllos_Leaf31_1993",77,19.4155844155844,15.92,14.195,7.51,0.385
+"152","Largeleaf linden","Tilia platyphyllos",1.46,45.78,14.52,60.3,16.16,NA,44,44.85,5.74,39.22,2.31,"LOPEX",1993,"Tilia platyphyllos_Leaf31","LOPEX_Tilia platyphyllos_Leaf31_1993",77,19.4155844155844,15.92,14.195,7.51,0.385
+"153","Largeleaf linden","Tilia platyphyllos",1.57,45.78,14.52,60.3,16.16,NA,45,44.85,5.74,39.22,2.31,"LOPEX",1993,"Tilia platyphyllos_Leaf31","LOPEX_Tilia platyphyllos_Leaf31_1993",84,19.4155844155844,15.92,14.195,7.51,0.385
+"154","Largeleaf linden","Tilia platyphyllos",1.5,45.78,14.52,60.3,16.16,NA,53,44.85,5.74,39.22,2.31,"LOPEX",1993,"Tilia platyphyllos_Leaf31","LOPEX_Tilia platyphyllos_Leaf31_1993",78,19.4155844155844,15.92,14.195,7.51,0.385
+"155","Largeleaf linden","Tilia platyphyllos",1.53,45.78,14.52,60.3,16.16,NA,49,44.85,5.74,39.22,2.31,"LOPEX",1993,"Tilia platyphyllos_Leaf31","LOPEX_Tilia platyphyllos_Leaf31_1993",77,19.4155844155844,15.92,14.195,7.51,0.385
+"156","European aspen","Populus tremula",1.45,33.34,10.88,44.22,8.37,NA,64,49.69,7.58,36.57,2.51,"LOPEX",1993,"Pop-tre_Leaf32","LOPEX_Pop-tre_Leaf32_1993",72,19.796812749004,15.335,22.255,11.495,0.2
+"157","European aspen","Populus tremula",1.38,33.34,10.88,44.22,8.37,NA,60,49.69,7.58,36.57,2.51,"LOPEX",1993,"Pop-tre_Leaf32","LOPEX_Pop-tre_Leaf32_1993",71,19.796812749004,15.335,22.255,11.495,0.2
+"158","European aspen","Populus tremula",1.49,33.34,10.88,44.22,8.37,NA,57,49.69,7.58,36.57,2.51,"LOPEX",1993,"Pop-tre_Leaf32","LOPEX_Pop-tre_Leaf32_1993",62,19.796812749004,15.335,22.255,11.495,0.2
+"159","European aspen","Populus tremula",1.61,33.34,10.88,44.22,8.37,NA,49,49.69,7.58,36.57,2.51,"LOPEX",1993,"Pop-tre_Leaf32","LOPEX_Pop-tre_Leaf32_1993",59,19.796812749004,15.335,22.255,11.495,0.2
+"160","European aspen","Populus tremula",1.53,33.34,10.88,44.22,8.37,NA,69,49.69,7.58,36.57,2.51,"LOPEX",1993,"Pop-tre_Leaf32","LOPEX_Pop-tre_Leaf32_1993",61,19.796812749004,15.335,22.255,11.495,0.2
+"161","Downy oak","Quercus pubescens",1.63,30.91,7.73,38.64,11.64,NA,106,49.99,6.69,38.86,2.34,"LOPEX",1993,"Quercus pubescens_Leaf33","LOPEX_Quercus pubescens_Leaf33_1993",104,21.3632478632479,12.345,21.035,11.035,1.105
+"162","Downy oak","Quercus pubescens",1.48,30.91,7.73,38.64,11.64,NA,70,49.99,6.69,38.86,2.34,"LOPEX",1993,"Quercus pubescens_Leaf33","LOPEX_Quercus pubescens_Leaf33_1993",88,21.3632478632479,12.345,21.035,11.035,1.105
+"163","Downy oak","Quercus pubescens",1.53,30.91,7.73,38.64,11.64,NA,81,49.99,6.69,38.86,2.34,"LOPEX",1993,"Quercus pubescens_Leaf33","LOPEX_Quercus pubescens_Leaf33_1993",80,21.3632478632479,12.345,21.035,11.035,1.105
+"164","Downy oak","Quercus pubescens",1.67,30.91,7.73,38.64,11.64,NA,96,49.99,6.69,38.86,2.34,"LOPEX",1993,"Quercus pubescens_Leaf33","LOPEX_Quercus pubescens_Leaf33_1993",95,21.3632478632479,12.345,21.035,11.035,1.105
+"165","Downy oak","Quercus pubescens",1.6,30.91,7.73,38.64,11.64,NA,91,49.99,6.69,38.86,2.34,"LOPEX",1993,"Quercus pubescens_Leaf33","LOPEX_Quercus pubescens_Leaf33_1993",92,21.3632478632479,12.345,21.035,11.035,1.105
+"166","European alder","Alnus glutinosa",1.94,47.17,13.43,60.6,13.89,NA,70,49.41,6.35,37.6,3.4,"LOPEX",1993,"Aln-glu_Leaf34","LOPEX_Aln-glu_Leaf34_1993",78,14.5323529411765,22.105,14.13,12.045,1.63
+"167","European alder","Alnus glutinosa",1.81,47.17,13.43,60.6,13.89,NA,55,49.41,6.35,37.6,3.4,"LOPEX",1993,"Aln-glu_Leaf34","LOPEX_Aln-glu_Leaf34_1993",77,14.5323529411765,22.105,14.13,12.045,1.63
+"168","European alder","Alnus glutinosa",1.93,47.17,13.43,60.6,13.89,NA,67,49.41,6.35,37.6,3.4,"LOPEX",1993,"Aln-glu_Leaf34","LOPEX_Aln-glu_Leaf34_1993",82,14.5323529411765,22.105,14.13,12.045,1.63
+"169","European alder","Alnus glutinosa",2.07,47.17,13.43,60.6,13.89,NA,71,49.41,6.35,37.6,3.4,"LOPEX",1993,"Aln-glu_Leaf34","LOPEX_Aln-glu_Leaf34_1993",89,14.5323529411765,22.105,14.13,12.045,1.63
+"170","European alder","Alnus glutinosa",1.91,47.17,13.43,60.6,13.89,NA,65,49.41,6.35,37.6,3.4,"LOPEX",1993,"Aln-glu_Leaf34","LOPEX_Aln-glu_Leaf34_1993",82,14.5323529411765,22.105,14.13,12.045,1.63
+"171","Corn","Zea mays",1.53,35.48,9.23,44.71,11.64,NA,37,NA,NA,NA,NA,"LOPEX",1993,"Zea-may_Leaf35","LOPEX_Zea-may_Leaf35_1993",99,NA,16.525,23.34,2.91,NA
+"172","Corn","Zea mays",1.52,35.48,9.23,44.71,11.64,NA,42,NA,NA,NA,NA,"LOPEX",1993,"Zea-may_Leaf35","LOPEX_Zea-may_Leaf35_1993",89,NA,16.525,23.34,2.91,NA
+"173","Corn","Zea mays",1.32,35.48,9.23,44.71,11.64,NA,32,NA,NA,NA,NA,"LOPEX",1993,"Zea-may_Leaf35","LOPEX_Zea-may_Leaf35_1993",74,NA,16.525,23.34,2.91,NA
+"174","Corn","Zea mays",1.58,35.48,9.23,44.71,11.64,NA,42,NA,NA,NA,NA,"LOPEX",1993,"Zea-may_Leaf35","LOPEX_Zea-may_Leaf35_1993",96,NA,16.525,23.34,2.91,NA
+"175","Corn","Zea mays",3,35.48,9.23,44.71,11.64,NA,33,NA,NA,NA,NA,"LOPEX",1993,"Zea-may_Leaf35","LOPEX_Zea-may_Leaf35_1993",63,NA,16.525,23.34,2.91,NA
+"176","Corn","Zea mays",NA,NA,NA,NA,NA,NA,39,43.74,5.9,37.85,2,"LOPEX",1993,"Zea-may_Leaf36","LOPEX_Zea-may_Leaf36_1993",4,21.87,12.96,26.245,5.11,0.805
+"177","Corn","Zea mays",NA,NA,NA,NA,NA,NA,28,43.74,5.9,37.85,2,"LOPEX",1993,"Zea-may_Leaf36","LOPEX_Zea-may_Leaf36_1993",3,21.87,12.96,26.245,5.11,0.805
+"178","Corn","Zea mays",NA,NA,NA,NA,NA,NA,31,43.74,5.9,37.85,2,"LOPEX",1993,"Zea-may_Leaf36","LOPEX_Zea-may_Leaf36_1993",4,21.87,12.96,26.245,5.11,0.805
+"179","Corn","Zea mays",NA,NA,NA,NA,NA,NA,35,43.74,5.9,37.85,2,"LOPEX",1993,"Zea-may_Leaf36","LOPEX_Zea-may_Leaf36_1993",4,21.87,12.96,26.245,5.11,0.805
+"180","Corn","Zea mays",NA,NA,NA,NA,NA,NA,28,43.74,5.9,37.85,2,"LOPEX",1993,"Zea-may_Leaf36","LOPEX_Zea-may_Leaf36_1993",3,21.87,12.96,26.245,5.11,0.805
+"181","Northern red oak","Quercus rubra",1.481275471,32.54,9.85,42.39,9.03,NA,57,NA,NA,NA,NA,"LOPEX",1993,"Que-rub_Leaf37","LOPEX_Que-rub_Leaf37_1993",65,NA,13.375,26.72,13.32,2.73
+"182","Northern red oak","Quercus rubra",1.53888631,32.54,9.85,42.39,9.03,NA,70,NA,NA,NA,NA,"LOPEX",1993,"Que-rub_Leaf37","LOPEX_Que-rub_Leaf37_1993",72,NA,13.375,26.72,13.32,2.73
+"183","Northern red oak","Quercus rubra",1.466518145,32.54,9.85,42.39,9.03,NA,58,NA,NA,NA,NA,"LOPEX",1993,"Que-rub_Leaf37","LOPEX_Que-rub_Leaf37_1993",67,NA,13.375,26.72,13.32,2.73
+"184","Northern red oak","Quercus rubra",1.511694555,32.54,9.85,42.39,9.03,NA,54,NA,NA,NA,NA,"LOPEX",1993,"Que-rub_Leaf37","LOPEX_Que-rub_Leaf37_1993",61,NA,13.375,26.72,13.32,2.73
+"185","Northern red oak","Quercus rubra",1.439336247,32.54,9.85,42.39,9.03,NA,53,NA,NA,NA,NA,"LOPEX",1993,"Que-rub_Leaf37","LOPEX_Que-rub_Leaf37_1993",60,NA,13.375,26.72,13.32,2.73
+"186","Corn","Zea mays",1.7,15.22,5.12,20.34,4.35,NA,38,43.64,5.89,40.54,1.73,"LOPEX",1993,"Zea-may_Leaf38","LOPEX_Zea-may_Leaf38_1993",81,25.2254335260116,10.095,24.64,2.415,NA
+"187","Corn","Zea mays",1.61,15.22,5.12,20.34,4.35,NA,46,43.64,5.89,40.54,1.73,"LOPEX",1993,"Zea-may_Leaf38","LOPEX_Zea-may_Leaf38_1993",102,25.2254335260116,10.095,24.64,2.415,NA
+"188","Corn","Zea mays",1.59,15.22,5.12,20.34,4.35,NA,39,43.64,5.89,40.54,1.73,"LOPEX",1993,"Zea-may_Leaf38","LOPEX_Zea-may_Leaf38_1993",66,25.2254335260116,10.095,24.64,2.415,NA
+"189","Corn","Zea mays",1.6,15.22,5.12,20.34,4.35,NA,47,43.64,5.89,40.54,1.73,"LOPEX",1993,"Zea-may_Leaf38","LOPEX_Zea-may_Leaf38_1993",86,25.2254335260116,10.095,24.64,2.415,NA
+"190","Corn","Zea mays",1.7,15.22,5.12,20.34,4.35,NA,43,43.64,5.89,40.54,1.73,"LOPEX",1993,"Zea-may_Leaf38","LOPEX_Zea-may_Leaf38_1993",55,25.2254335260116,10.095,24.64,2.415,NA
+"191","Common filbert","Corylus avellana",1.64,31.84,12.23,44.07,10.91,NA,26,47.37,6.98,37.86,2.67,"LOPEX",1993,"Cor-ave_Leaf39","LOPEX_Cor-ave_Leaf39_1993",50,17.7415730337079,12.78,17.25,12.665,0.995
+"192","Common filbert","Corylus avellana",1.67,31.84,12.23,44.07,10.91,NA,30,47.37,6.98,37.86,2.67,"LOPEX",1993,"Cor-ave_Leaf39","LOPEX_Cor-ave_Leaf39_1993",42,17.7415730337079,12.78,17.25,12.665,0.995
+"193","Common filbert","Corylus avellana",1.57,31.84,12.23,44.07,10.91,NA,42,47.37,6.98,37.86,2.67,"LOPEX",1993,"Cor-ave_Leaf39","LOPEX_Cor-ave_Leaf39_1993",59,17.7415730337079,12.78,17.25,12.665,0.995
+"194","Common filbert","Corylus avellana",1.47,31.84,12.23,44.07,10.91,NA,29,47.37,6.98,37.86,2.67,"LOPEX",1993,"Cor-ave_Leaf39","LOPEX_Cor-ave_Leaf39_1993",50,17.7415730337079,12.78,17.25,12.665,0.995
+"195","Common filbert","Corylus avellana",1.47,31.84,12.23,44.07,10.91,NA,46,47.37,6.98,37.86,2.67,"LOPEX",1993,"Cor-ave_Leaf39","LOPEX_Cor-ave_Leaf39_1993",50,17.7415730337079,12.78,17.25,12.665,0.995
+"196","European chestnut","Castanea sativa",NA,NA,NA,NA,NA,NA,42,49.72,6.37,40.43,1.09,"LOPEX",1993,"Castanea sativa_Leaf40","LOPEX_Castanea sativa_Leaf40_1993",27,45.6146788990826,7.52,29.16,18.24,2.585
+"197","European chestnut","Castanea sativa",NA,NA,NA,NA,NA,NA,31,49.72,6.37,40.43,1.09,"LOPEX",1993,"Castanea sativa_Leaf40","LOPEX_Castanea sativa_Leaf40_1993",10,45.6146788990826,7.52,29.16,18.24,2.585
+"198","European chestnut","Castanea sativa",NA,NA,NA,NA,NA,NA,37,49.72,6.37,40.43,1.09,"LOPEX",1993,"Castanea sativa_Leaf40","LOPEX_Castanea sativa_Leaf40_1993",20,45.6146788990826,7.52,29.16,18.24,2.585
+"199","European chestnut","Castanea sativa",NA,NA,NA,NA,NA,NA,28,49.72,6.37,40.43,1.09,"LOPEX",1993,"Castanea sativa_Leaf40","LOPEX_Castanea sativa_Leaf40_1993",18,45.6146788990826,7.52,29.16,18.24,2.585
+"200","European chestnut","Castanea sativa",NA,NA,NA,NA,NA,NA,33,49.72,6.37,40.43,1.09,"LOPEX",1993,"Castanea sativa_Leaf40","LOPEX_Castanea sativa_Leaf40_1993",21,45.6146788990826,7.52,29.16,18.24,2.585
+"201","Sycamore maple","Acer pseudoplatanus",1.4,42.99,14.59,57.58,10.52,NA,33,48.23,6.39,37.64,2.85,"LOPEX",1993,"Ace-pse_Leaf41","LOPEX_Ace-pse_Leaf41_1993",62,16.9228070175439,17.075,18.105,9.205,NA
+"202","Sycamore maple","Acer pseudoplatanus",1.48,42.99,14.59,57.58,10.52,NA,48,48.23,6.39,37.64,2.85,"LOPEX",1993,"Ace-pse_Leaf41","LOPEX_Ace-pse_Leaf41_1993",77,16.9228070175439,17.075,18.105,9.205,NA
+"203","Sycamore maple","Acer pseudoplatanus",1.29,42.99,14.59,57.58,10.52,NA,34,48.23,6.39,37.64,2.85,"LOPEX",1993,"Ace-pse_Leaf41","LOPEX_Ace-pse_Leaf41_1993",60,16.9228070175439,17.075,18.105,9.205,NA
+"204","Sycamore maple","Acer pseudoplatanus",1.31,42.99,14.59,57.58,10.52,NA,42,48.23,6.39,37.64,2.85,"LOPEX",1993,"Ace-pse_Leaf41","LOPEX_Ace-pse_Leaf41_1993",60,16.9228070175439,17.075,18.105,9.205,NA
+"205","Sycamore maple","Acer pseudoplatanus",1.39,42.99,14.59,57.58,10.52,NA,46,48.23,6.39,37.64,2.85,"LOPEX",1993,"Ace-pse_Leaf41","LOPEX_Ace-pse_Leaf41_1993",67,16.9228070175439,17.075,18.105,9.205,NA
+"206","Kitchen sage","Salvia officinalis",2.24,46.09,13.08,59.17,15.87,NA,96,48.94,6.5,36.04,3.11,"LOPEX",1993,"Sal-off_Leaf42","LOPEX_Sal-off_Leaf42_1993",236,15.7363344051447,20.39,18.295,12.84,2.555
+"207","Kitchen sage","Salvia officinalis",2.17,46.09,13.08,59.17,15.87,NA,95,48.94,6.5,36.04,3.11,"LOPEX",1993,"Sal-off_Leaf42","LOPEX_Sal-off_Leaf42_1993",235,15.7363344051447,20.39,18.295,12.84,2.555
+"208","Kitchen sage","Salvia officinalis",2.08,46.09,13.08,59.17,15.87,NA,77,48.94,6.5,36.04,3.11,"LOPEX",1993,"Sal-off_Leaf42","LOPEX_Sal-off_Leaf42_1993",213,15.7363344051447,20.39,18.295,12.84,2.555
+"209","Kitchen sage","Salvia officinalis",2.11,46.09,13.08,59.17,15.87,NA,88,48.94,6.5,36.04,3.11,"LOPEX",1993,"Sal-off_Leaf42","LOPEX_Sal-off_Leaf42_1993",242,15.7363344051447,20.39,18.295,12.84,2.555
+"210","Kitchen sage","Salvia officinalis",2.22,46.09,13.08,59.17,15.87,NA,95,48.94,6.5,36.04,3.11,"LOPEX",1993,"Sal-off_Leaf42","LOPEX_Sal-off_Leaf42_1993",231,15.7363344051447,20.39,18.295,12.84,2.555
+"211","Edible fig","Ficus carica",1.55,38.62,12.99,51.61,13.7,NA,50,41.77,5.67,40.36,3.1,"LOPEX",1993,"Fic-car_Leaf43","LOPEX_Fic-car_Leaf43_1993",91,13.4741935483871,20.21,12.51,4.805,2.62
+"212","Edible fig","Ficus carica",1.58,38.62,12.99,51.61,13.7,NA,60,41.77,5.67,40.36,3.1,"LOPEX",1993,"Fic-car_Leaf43","LOPEX_Fic-car_Leaf43_1993",88,13.4741935483871,20.21,12.51,4.805,2.62
+"213","Edible fig","Ficus carica",1.83,38.62,12.99,51.61,13.7,NA,60,41.77,5.67,40.36,3.1,"LOPEX",1993,"Fic-car_Leaf43","LOPEX_Fic-car_Leaf43_1993",139,13.4741935483871,20.21,12.51,4.805,2.62
+"214","Edible fig","Ficus carica",1.87,38.62,12.99,51.61,13.7,NA,65,41.77,5.67,40.36,3.1,"LOPEX",1993,"Fic-car_Leaf43","LOPEX_Fic-car_Leaf43_1993",125,13.4741935483871,20.21,12.51,4.805,2.62
+"215","Edible fig","Ficus carica",1.74,38.62,12.99,51.61,13.7,NA,61,41.77,5.67,40.36,3.1,"LOPEX",1993,"Fic-car_Leaf43","LOPEX_Fic-car_Leaf43_1993",127,13.4741935483871,20.21,12.51,4.805,2.62
+"216","Bamboo","Bambusa arundinacea",1.92,54.72,18.08,72.8,12.33,NA,76,45.82,6.15,39.73,2.38,"LOPEX",1993,"Bambusa arundinacea_Leaf44","LOPEX_Bambusa arundinacea_Leaf44_1993",87,19.2521008403361,15.09,30.375,6.66,NA
+"217","Bamboo","Bambusa arundinacea",1.68,54.72,18.08,72.8,12.33,NA,59,45.82,6.15,39.73,2.38,"LOPEX",1993,"Bambusa arundinacea_Leaf44","LOPEX_Bambusa arundinacea_Leaf44_1993",73,19.2521008403361,15.09,30.375,6.66,NA
+"218","Bamboo","Bambusa arundinacea",1.85,54.72,18.08,72.8,12.33,NA,71,45.82,6.15,39.73,2.38,"LOPEX",1993,"Bambusa arundinacea_Leaf44","LOPEX_Bambusa arundinacea_Leaf44_1993",88,19.2521008403361,15.09,30.375,6.66,NA
+"219","Bamboo","Bambusa arundinacea",1.63,54.72,18.08,72.8,12.33,NA,75,45.82,6.15,39.73,2.38,"LOPEX",1993,"Bambusa arundinacea_Leaf44","LOPEX_Bambusa arundinacea_Leaf44_1993",86,19.2521008403361,15.09,30.375,6.66,NA
+"220","Bamboo","Bambusa arundinacea",1.57,54.72,18.08,72.8,12.33,NA,66,45.82,6.15,39.73,2.38,"LOPEX",1993,"Bambusa arundinacea_Leaf44","LOPEX_Bambusa arundinacea_Leaf44_1993",72,19.2521008403361,15.09,30.375,6.66,NA
+"221","European fan palm","Chamaerops humilis",2.05,72.17,23.28,95.46,21.81,NA,133,NA,NA,NA,NA,"LOPEX",1993,"Cha-hum_Leaf45","LOPEX_Cha-hum_Leaf45_1993",169,NA,11.825,31.47,9.24,0.48
+"222","European fan palm","Chamaerops humilis",2.12,72.17,23.28,95.46,21.81,NA,123,NA,NA,NA,NA,"LOPEX",1993,"Cha-hum_Leaf45","LOPEX_Cha-hum_Leaf45_1993",151,NA,11.825,31.47,9.24,0.48
+"223","European fan palm","Chamaerops humilis",1.93,72.17,23.28,95.46,21.81,NA,120,NA,NA,NA,NA,"LOPEX",1993,"Cha-hum_Leaf45","LOPEX_Cha-hum_Leaf45_1993",158,NA,11.825,31.47,9.24,0.48
+"224","European fan palm","Chamaerops humilis",1.75,72.17,23.28,95.46,21.81,NA,110,NA,NA,NA,NA,"LOPEX",1993,"Cha-hum_Leaf45","LOPEX_Cha-hum_Leaf45_1993",140,NA,11.825,31.47,9.24,0.48
+"225","European fan palm","Chamaerops humilis",1.97,72.17,23.28,95.46,21.81,NA,127,NA,NA,NA,NA,"LOPEX",1993,"Cha-hum_Leaf45","LOPEX_Cha-hum_Leaf45_1993",153,NA,11.825,31.47,9.24,0.48
+"226","Common reed","Phragmites australis",1.52,77.6,21.2,98.8,28.35,NA,68,44.92,6.24,37.63,2.78,"LOPEX",1993,"Phragmites australis_Leaf46","LOPEX_Phragmites australis_Leaf46_1993",59,16.158273381295,18.065,23.31,5.835,NA
+"227","Common reed","Phragmites australis",1.62,77.6,21.2,98.8,28.35,NA,88,44.92,6.24,37.63,2.78,"LOPEX",1993,"Phragmites australis_Leaf46","LOPEX_Phragmites australis_Leaf46_1993",95,16.158273381295,18.065,23.31,5.835,NA
+"228","Common reed","Phragmites australis",1.43,77.6,21.2,98.8,28.35,NA,61,44.92,6.24,37.63,2.78,"LOPEX",1993,"Phragmites australis_Leaf46","LOPEX_Phragmites australis_Leaf46_1993",44,16.158273381295,18.065,23.31,5.835,NA
+"229","Common reed","Phragmites australis",1.65,77.6,21.2,98.8,28.35,NA,85,44.92,6.24,37.63,2.78,"LOPEX",1993,"Phragmites australis_Leaf46","LOPEX_Phragmites australis_Leaf46_1993",90,16.158273381295,18.065,23.31,5.835,NA
+"230","Common reed","Phragmites australis",1.67,77.6,21.2,98.8,28.35,NA,82,44.92,6.24,37.63,2.78,"LOPEX",1993,"Phragmites australis_Leaf46","LOPEX_Phragmites australis_Leaf46_1993",91,16.158273381295,18.065,23.31,5.835,NA
+"231","Bamboo","Bambusa arundinacea",1.43,42.39,12.33,54.72,12.63,NA,55,46.44,6.19,39.05,2.66,"LOPEX",1993,"Bambusa arundinacea_Leaf47","LOPEX_Bambusa arundinacea_Leaf47_1993",62,17.4586466165414,17.45,28.335,5.485,NA
+"232","Bamboo","Bambusa arundinacea",1.49,42.39,12.33,54.72,12.63,NA,60,46.44,6.19,39.05,2.66,"LOPEX",1993,"Bambusa arundinacea_Leaf47","LOPEX_Bambusa arundinacea_Leaf47_1993",70,17.4586466165414,17.45,28.335,5.485,NA
+"233","Bamboo","Bambusa arundinacea",1.49,42.39,12.33,54.72,12.63,NA,61,46.44,6.19,39.05,2.66,"LOPEX",1993,"Bambusa arundinacea_Leaf47","LOPEX_Bambusa arundinacea_Leaf47_1993",67,17.4586466165414,17.45,28.335,5.485,NA
+"234","Bamboo","Bambusa arundinacea",1.48,42.39,12.33,54.72,12.63,NA,63,46.44,6.19,39.05,2.66,"LOPEX",1993,"Bambusa arundinacea_Leaf47","LOPEX_Bambusa arundinacea_Leaf47_1993",66,17.4586466165414,17.45,28.335,5.485,NA
+"235","Bamboo","Bambusa arundinacea",1.45,42.39,12.33,54.72,12.63,NA,56,46.44,6.19,39.05,2.66,"LOPEX",1993,"Bambusa arundinacea_Leaf47","LOPEX_Bambusa arundinacea_Leaf47_1993",59,17.4586466165414,17.45,28.335,5.485,NA
+"236","Apricot","Prunus armeniaca",1.61,33.75,11.45,45.2,11.53,NA,91,46.22,5.92,39.38,2.37,"LOPEX",1993,"Pru-arm_Leaf48","LOPEX_Pru-arm_Leaf48_1993",136,19.5021097046413,18.25,11.72,9.665,3.405
+"237","Apricot","Prunus armeniaca",1.62,33.75,11.45,45.2,11.53,NA,60,46.22,5.92,39.38,2.37,"LOPEX",1993,"Pru-arm_Leaf48","LOPEX_Pru-arm_Leaf48_1993",108,19.5021097046413,18.25,11.72,9.665,3.405
+"238","Apricot","Prunus armeniaca",1.62,33.75,11.45,45.2,11.53,NA,74,46.22,5.92,39.38,2.37,"LOPEX",1993,"Pru-arm_Leaf48","LOPEX_Pru-arm_Leaf48_1993",114,19.5021097046413,18.25,11.72,9.665,3.405
+"239","Apricot","Prunus armeniaca",1.61,33.75,11.45,45.2,11.53,NA,90,46.22,5.92,39.38,2.37,"LOPEX",1993,"Pru-arm_Leaf48","LOPEX_Pru-arm_Leaf48_1993",140,19.5021097046413,18.25,11.72,9.665,3.405
+"240","Apricot","Prunus armeniaca",1.6,33.75,11.45,45.2,11.53,NA,69,46.22,5.92,39.38,2.37,"LOPEX",1993,"Pru-arm_Leaf48","LOPEX_Pru-arm_Leaf48_1993",121,19.5021097046413,18.25,11.72,9.665,3.405
+"241","Wych elm","Ulmus glabra",1.64,38.13,13.61,51.74,9.29,NA,50,45.08,6,39.29,2.55,"LOPEX",1993,"Ulmus glabra_Leaf49","LOPEX_Ulmus glabra_Leaf49_1993",67,17.678431372549,16.745,16,4.715,0.8
+"242","Wych elm","Ulmus glabra",1.41,38.13,13.61,51.74,9.29,NA,31,45.08,6,39.29,2.55,"LOPEX",1993,"Ulmus glabra_Leaf49","LOPEX_Ulmus glabra_Leaf49_1993",51,17.678431372549,16.745,16,4.715,0.8
+"243","Wych elm","Ulmus glabra",1.42,38.13,13.61,51.74,9.29,NA,45,45.08,6,39.29,2.55,"LOPEX",1993,"Ulmus glabra_Leaf49","LOPEX_Ulmus glabra_Leaf49_1993",61,17.678431372549,16.745,16,4.715,0.8
+"244","Wych elm","Ulmus glabra",1.54,38.13,13.61,51.74,9.29,NA,33,45.08,6,39.29,2.55,"LOPEX",1993,"Ulmus glabra_Leaf49","LOPEX_Ulmus glabra_Leaf49_1993",49,17.678431372549,16.745,16,4.715,0.8
+"245","Wych elm","Ulmus glabra",1.4,38.13,13.61,51.74,9.29,NA,42,45.08,6,39.29,2.55,"LOPEX",1993,"Ulmus glabra_Leaf49","LOPEX_Ulmus glabra_Leaf49_1993",46,17.678431372549,16.745,16,4.715,0.8
+"246","English ivy","Hedera helix",2.05,44.39,14.55,58.94,14.25,NA,60,49.47,7.7,37.94,2.3,"LOPEX",1993,"Hed-hel_Leaf50","LOPEX_Hed-hel_Leaf50_1993",115,21.5086956521739,14.675,21.165,13.335,NA
+"247","English ivy","Hedera helix",1.99,44.39,14.55,58.94,14.25,NA,70,49.47,7.7,37.94,2.3,"LOPEX",1993,"Hed-hel_Leaf50","LOPEX_Hed-hel_Leaf50_1993",124,21.5086956521739,14.675,21.165,13.335,NA
+"248","English ivy","Hedera helix",2.14,44.39,14.55,58.94,14.25,NA,71,49.47,7.7,37.94,2.3,"LOPEX",1993,"Hed-hel_Leaf50","LOPEX_Hed-hel_Leaf50_1993",138,21.5086956521739,14.675,21.165,13.335,NA
+"249","English ivy","Hedera helix",2.04,44.39,14.55,58.94,14.25,NA,75,49.47,7.7,37.94,2.3,"LOPEX",1993,"Hed-hel_Leaf50","LOPEX_Hed-hel_Leaf50_1993",119,21.5086956521739,14.675,21.165,13.335,NA
+"250","English ivy","Hedera helix",2.07,44.39,14.55,58.94,14.25,NA,93,49.47,7.7,37.94,2.3,"LOPEX",1993,"Hed-hel_Leaf50","LOPEX_Hed-hel_Leaf50_1993",128,21.5086956521739,14.675,21.165,13.335,NA
+"251","Black locust","Robinia pseudoacacia",1.38,25.7,7.3,33.01,6.85,NA,38,49.07,5.94,38.5,4.42,"LOPEX",1993,"Rob-pse_Leaf51","LOPEX_Rob-pse_Leaf51_1993",68,11.1018099547511,26.555,13.14,11.615,4.185
+"252","Black locust","Robinia pseudoacacia",1.34,25.7,7.3,33.01,6.85,NA,35,49.07,5.94,38.5,4.42,"LOPEX",1993,"Rob-pse_Leaf51","LOPEX_Rob-pse_Leaf51_1993",63,11.1018099547511,26.555,13.14,11.615,4.185
+"253","Black locust","Robinia pseudoacacia",1.26,25.7,7.3,33.01,6.85,NA,36,49.07,5.94,38.5,4.42,"LOPEX",1993,"Rob-pse_Leaf51","LOPEX_Rob-pse_Leaf51_1993",70,11.1018099547511,26.555,13.14,11.615,4.185
+"254","Black locust","Robinia pseudoacacia",1.35,25.7,7.3,33.01,6.85,NA,30,49.07,5.94,38.5,4.42,"LOPEX",1993,"Rob-pse_Leaf51","LOPEX_Rob-pse_Leaf51_1993",67,11.1018099547511,26.555,13.14,11.615,4.185
+"255","Black locust","Robinia pseudoacacia",1.31,25.7,7.3,33.01,6.85,NA,35,49.07,5.94,38.5,4.42,"LOPEX",1993,"Rob-pse_Leaf51","LOPEX_Rob-pse_Leaf51_1993",60,11.1018099547511,26.555,13.14,11.615,4.185
+"256","Black cherry","Prunus serotina",1.65,49.76,14.95,64.71,12.86,NA,87,48.44,5.99,38.04,2.81,"LOPEX",1993,"Prunus serotina_Leaf52","LOPEX_Prunus serotina_Leaf52_1993",98,17.2384341637011,18.205,11.715,6.165,NA
+"257","Black cherry","Prunus serotina",1.62,49.76,14.95,64.71,12.86,NA,80,48.44,5.99,38.04,2.81,"LOPEX",1993,"Prunus serotina_Leaf52","LOPEX_Prunus serotina_Leaf52_1993",93,17.2384341637011,18.205,11.715,6.165,NA
+"258","Black cherry","Prunus serotina",1.66,49.76,14.95,64.71,12.86,NA,72,48.44,5.99,38.04,2.81,"LOPEX",1993,"Prunus serotina_Leaf52","LOPEX_Prunus serotina_Leaf52_1993",85,17.2384341637011,18.205,11.715,6.165,NA
+"259","Black cherry","Prunus serotina",1.72,49.76,14.95,64.71,12.86,NA,86,48.44,5.99,38.04,2.81,"LOPEX",1993,"Prunus serotina_Leaf52","LOPEX_Prunus serotina_Leaf52_1993",89,17.2384341637011,18.205,11.715,6.165,NA
+"260","Black cherry","Prunus serotina",1.69,49.76,14.95,64.71,12.86,NA,78,48.44,5.99,38.04,2.81,"LOPEX",1993,"Prunus serotina_Leaf52","LOPEX_Prunus serotina_Leaf52_1993",92,17.2384341637011,18.205,11.715,6.165,NA
+"261","European ash","Fraxinus excelsior",1.83,46.31,14.06,60.37,15.19,NA,61,46.82,6.07,38.97,2.7,"LOPEX",1993,"Fra-exc_Leaf53","LOPEX_Fra-exc_Leaf53_1993",64,17.3407407407407,17.74,12.635,15.165,1.22
+"262","European ash","Fraxinus excelsior",2.03,46.31,14.06,60.37,15.19,NA,46,46.82,6.07,38.97,2.7,"LOPEX",1993,"Fra-exc_Leaf53","LOPEX_Fra-exc_Leaf53_1993",45,17.3407407407407,17.74,12.635,15.165,1.22
+"263","European ash","Fraxinus excelsior",2.04,46.31,14.06,60.37,15.19,NA,55,46.82,6.07,38.97,2.7,"LOPEX",1993,"Fra-exc_Leaf53","LOPEX_Fra-exc_Leaf53_1993",42,17.3407407407407,17.74,12.635,15.165,1.22
+"264","European ash","Fraxinus excelsior",2.28,46.31,14.06,60.37,15.19,NA,57,46.82,6.07,38.97,2.7,"LOPEX",1993,"Fra-exc_Leaf53","LOPEX_Fra-exc_Leaf53_1993",37,17.3407407407407,17.74,12.635,15.165,1.22
+"265","European ash","Fraxinus excelsior",2.18,46.31,14.06,60.37,15.19,NA,66,46.82,6.07,38.97,2.7,"LOPEX",1993,"Fra-exc_Leaf53","LOPEX_Fra-exc_Leaf53_1993",43,17.3407407407407,17.74,12.635,15.165,1.22
+"266","Cabbage","Brassica oleracea",2.06,50.51,18.3,68.82,11.92,NA,50,42.24,6.1,37.58,5.22,"LOPEX",1993,"Bra-ole_Leaf54","LOPEX_Bra-ole_Leaf54_1993",241,8.09195402298851,34.325,14.07,4.31,NA
+"267","Cabbage","Brassica oleracea",1.84,50.51,18.3,68.82,11.92,NA,53,42.24,6.1,37.58,5.22,"LOPEX",1993,"Bra-ole_Leaf54","LOPEX_Bra-ole_Leaf54_1993",274,8.09195402298851,34.325,14.07,4.31,NA
+"268","Cabbage","Brassica oleracea",2.06,50.51,18.3,68.82,11.92,NA,57,42.24,6.1,37.58,5.22,"LOPEX",1993,"Bra-ole_Leaf54","LOPEX_Bra-ole_Leaf54_1993",256,8.09195402298851,34.325,14.07,4.31,NA
+"269","Cabbage","Brassica oleracea",1.84,50.51,18.3,68.82,11.92,NA,58,42.24,6.1,37.58,5.22,"LOPEX",1993,"Bra-ole_Leaf54","LOPEX_Bra-ole_Leaf54_1993",273,8.09195402298851,34.325,14.07,4.31,NA
+"270","Cabbage","Brassica oleracea",2.21,50.51,18.3,68.82,11.92,NA,43,42.24,6.1,37.58,5.22,"LOPEX",1993,"Bra-ole_Leaf54","LOPEX_Bra-ole_Leaf54_1993",186,8.09195402298851,34.325,14.07,4.31,NA
+"271","German iris","Iris germanica",2.6,58,19.53,77.53,14.58,NA,84,NA,NA,NA,NA,"LOPEX",1993,"Iri-ger_Leaf55","LOPEX_Iri-ger_Leaf55_1993",390,NA,15.475,25.805,3.79,NA
+"272","German iris","Iris germanica",3,58,19.53,77.53,14.58,NA,91,NA,NA,NA,NA,"LOPEX",1993,"Iri-ger_Leaf55","LOPEX_Iri-ger_Leaf55_1993",472,NA,15.475,25.805,3.79,NA
+"273","German iris","Iris germanica",2.65,58,19.53,77.53,14.58,NA,80,NA,NA,NA,NA,"LOPEX",1993,"Iri-ger_Leaf55","LOPEX_Iri-ger_Leaf55_1993",359,NA,15.475,25.805,3.79,NA
+"274","German iris","Iris germanica",2.6,58,19.53,77.53,14.58,NA,73,NA,NA,NA,NA,"LOPEX",1993,"Iri-ger_Leaf55","LOPEX_Iri-ger_Leaf55_1993",362,NA,15.475,25.805,3.79,NA
+"275","German iris","Iris germanica",2.89,58,19.53,77.53,14.58,NA,84,NA,NA,NA,NA,"LOPEX",1993,"Iri-ger_Leaf55","LOPEX_Iri-ger_Leaf55_1993",439,NA,15.475,25.805,3.79,NA
+"276","Wine grape","Vitis vinifera",1.52,25.5,10.24,35.73,7.78,NA,55,47.39,6.12,40.92,3.23,"LOPEX",1993,"Vit-vin_Leaf56","LOPEX_Vit-vin_Leaf56_1993",121,14.671826625387,19.42,10.62,16.455,3.46
+"277","Wine grape","Vitis vinifera",1.49,25.5,10.24,35.73,7.78,NA,43,47.39,6.12,40.92,3.23,"LOPEX",1993,"Vit-vin_Leaf56","LOPEX_Vit-vin_Leaf56_1993",112,14.671826625387,19.42,10.62,16.455,3.46
+"278","Wine grape","Vitis vinifera",1.46,25.5,10.24,35.73,7.78,NA,47,47.39,6.12,40.92,3.23,"LOPEX",1993,"Vit-vin_Leaf56","LOPEX_Vit-vin_Leaf56_1993",134,14.671826625387,19.42,10.62,16.455,3.46
+"279","Wine grape","Vitis vinifera",1.49,25.5,10.24,35.73,7.78,NA,54,47.39,6.12,40.92,3.23,"LOPEX",1993,"Vit-vin_Leaf56","LOPEX_Vit-vin_Leaf56_1993",107,14.671826625387,19.42,10.62,16.455,3.46
+"280","Wine grape","Vitis vinifera",1.45,25.5,10.24,35.73,7.78,NA,47,47.39,6.12,40.92,3.23,"LOPEX",1993,"Vit-vin_Leaf56","LOPEX_Vit-vin_Leaf56_1993",106,14.671826625387,19.42,10.62,16.455,3.46
+"281","White mulberry","Morus alba",1.79,31.23,7.24,38.47,11.39,NA,64,42.72,6.95,38.12,3.74,"LOPEX",1993,"Mor-alb_Leaf57","LOPEX_Mor-alb_Leaf57_1993",111,11.4224598930481,23.72,11.86,4.81,NA
+"282","White mulberry","Morus alba",1.53,31.23,7.24,38.47,11.39,NA,50,42.72,6.95,38.12,3.74,"LOPEX",1993,"Mor-alb_Leaf57","LOPEX_Mor-alb_Leaf57_1993",91,11.4224598930481,23.72,11.86,4.81,NA
+"283","White mulberry","Morus alba",1.59,31.23,7.24,38.47,11.39,NA,53,42.72,6.95,38.12,3.74,"LOPEX",1993,"Mor-alb_Leaf57","LOPEX_Mor-alb_Leaf57_1993",94,11.4224598930481,23.72,11.86,4.81,NA
+"284","White mulberry","Morus alba",1.77,31.23,7.24,38.47,11.39,NA,47,42.72,6.95,38.12,3.74,"LOPEX",1993,"Mor-alb_Leaf57","LOPEX_Mor-alb_Leaf57_1993",89,11.4224598930481,23.72,11.86,4.81,NA
+"285","White mulberry","Morus alba",1.44,31.23,7.24,38.47,11.39,NA,49,42.72,6.95,38.12,3.74,"LOPEX",1993,"Mor-alb_Leaf57","LOPEX_Mor-alb_Leaf57_1993",91,11.4224598930481,23.72,11.86,4.81,NA
+"286","White willow","Salix alba",1.72,34.49,10.83,45.31,11.83,NA,81,48.1,6.27,38.61,2.28,"LOPEX",1993,"Sal-alb_Leaf58","LOPEX_Sal-alb_Leaf58_1993",90,21.0964912280702,14.38,13.665,9.355,1.425
+"287","White willow","Salix alba",1.73,34.49,10.83,45.31,11.83,NA,74,48.1,6.27,38.61,2.28,"LOPEX",1993,"Sal-alb_Leaf58","LOPEX_Sal-alb_Leaf58_1993",118,21.0964912280702,14.38,13.665,9.355,1.425
+"288","White willow","Salix alba",1.83,34.49,10.83,45.31,11.83,NA,75,48.1,6.27,38.61,2.28,"LOPEX",1993,"Sal-alb_Leaf58","LOPEX_Sal-alb_Leaf58_1993",95,21.0964912280702,14.38,13.665,9.355,1.425
+"289","White willow","Salix alba",1.83,34.49,10.83,45.31,11.83,NA,76,48.1,6.27,38.61,2.28,"LOPEX",1993,"Sal-alb_Leaf58","LOPEX_Sal-alb_Leaf58_1993",75,21.0964912280702,14.38,13.665,9.355,1.425
+"290","White willow","Salix alba",1.77,34.49,10.83,45.31,11.83,NA,80,48.1,6.27,38.61,2.28,"LOPEX",1993,"Sal-alb_Leaf58","LOPEX_Sal-alb_Leaf58_1993",109,21.0964912280702,14.38,13.665,9.355,1.425
+"291","Wine grape","Vitis vinifera",1.83,31.18,11.46,42.64,12.23,NA,43,46.42,6.2,39.96,3.12,"LOPEX",1993,"Vit-vin_Leaf59","LOPEX_Vit-vin_Leaf59_1993",98,14.8782051282051,20.76,11.805,14.765,2.65
+"292","Wine grape","Vitis vinifera",1.77,31.18,11.46,42.64,12.23,NA,49,46.42,6.2,39.96,3.12,"LOPEX",1993,"Vit-vin_Leaf59","LOPEX_Vit-vin_Leaf59_1993",110,14.8782051282051,20.76,11.805,14.765,2.65
+"293","Wine grape","Vitis vinifera",1.76,31.18,11.46,42.64,12.23,NA,43,46.42,6.2,39.96,3.12,"LOPEX",1993,"Vit-vin_Leaf59","LOPEX_Vit-vin_Leaf59_1993",111,14.8782051282051,20.76,11.805,14.765,2.65
+"294","Wine grape","Vitis vinifera",1.77,31.18,11.46,42.64,12.23,NA,52,46.42,6.2,39.96,3.12,"LOPEX",1993,"Vit-vin_Leaf59","LOPEX_Vit-vin_Leaf59_1993",111,14.8782051282051,20.76,11.805,14.765,2.65
+"295","Wine grape","Vitis vinifera",1.9,31.18,11.46,42.64,12.23,NA,55,46.42,6.2,39.96,3.12,"LOPEX",1993,"Vit-vin_Leaf59","LOPEX_Vit-vin_Leaf59_1993",111,14.8782051282051,20.76,11.805,14.765,2.65
+"296","Abyssinian banana","Ensete ventricosum",1.67,27.3,7.65,34.95,8.25,NA,39,43.84,5.52,38.39,3.27,"LOPEX",1993,"Ensete ventricosum_Leaf60","LOPEX_Ensete ventricosum_Leaf60_1993",123,13.4067278287462,21.02,20.055,3.92,1.195
+"297","Abyssinian banana","Ensete ventricosum",1.7,27.3,7.65,34.95,8.25,NA,39,43.84,5.52,38.39,3.27,"LOPEX",1993,"Ensete ventricosum_Leaf60","LOPEX_Ensete ventricosum_Leaf60_1993",127,13.4067278287462,21.02,20.055,3.92,1.195
+"298","Abyssinian banana","Ensete ventricosum",1.67,27.3,7.65,34.95,8.25,NA,37,43.84,5.52,38.39,3.27,"LOPEX",1993,"Ensete ventricosum_Leaf60","LOPEX_Ensete ventricosum_Leaf60_1993",120,13.4067278287462,21.02,20.055,3.92,1.195
+"299","Abyssinian banana","Ensete ventricosum",1.69,27.3,7.65,34.95,8.25,NA,46,43.84,5.52,38.39,3.27,"LOPEX",1993,"Ensete ventricosum_Leaf60","LOPEX_Ensete ventricosum_Leaf60_1993",143,13.4067278287462,21.02,20.055,3.92,1.195
+"300","Abyssinian banana","Ensete ventricosum",1.69,27.3,7.65,34.95,8.25,NA,39,43.84,5.52,38.39,3.27,"LOPEX",1993,"Ensete ventricosum_Leaf60","LOPEX_Ensete ventricosum_Leaf60_1993",117,13.4067278287462,21.02,20.055,3.92,1.195
+"301","European chestnut","Castanea sativa",1.5,33.64,8.42,42.06,10.81,NA,59,49.98,6.98,39.84,2.35,"LOPEX",1993,"Castanea sativa_Leaf61","LOPEX_Castanea sativa_Leaf61_1993",68,21.268085106383,14.17,23.945,10.76,1.6
+"302","European chestnut","Castanea sativa",1.54,33.64,8.42,42.06,10.81,NA,60,49.98,6.98,39.84,2.35,"LOPEX",1993,"Castanea sativa_Leaf61","LOPEX_Castanea sativa_Leaf61_1993",67,21.268085106383,14.17,23.945,10.76,1.6
+"303","European chestnut","Castanea sativa",1.4,33.64,8.42,42.06,10.81,NA,40,49.98,6.98,39.84,2.35,"LOPEX",1993,"Castanea sativa_Leaf61","LOPEX_Castanea sativa_Leaf61_1993",60,21.268085106383,14.17,23.945,10.76,1.6
+"304","European chestnut","Castanea sativa",1.46,33.64,8.42,42.06,10.81,NA,57,49.98,6.98,39.84,2.35,"LOPEX",1993,"Castanea sativa_Leaf61","LOPEX_Castanea sativa_Leaf61_1993",69,21.268085106383,14.17,23.945,10.76,1.6
+"305","European chestnut","Castanea sativa",1.45,33.64,8.42,42.06,10.81,NA,56,49.98,6.98,39.84,2.35,"LOPEX",1993,"Castanea sativa_Leaf61","LOPEX_Castanea sativa_Leaf61_1993",73,21.268085106383,14.17,23.945,10.76,1.6
+"306","European birch","Betula pendula",1.74,27.85,8.86,36.71,8.62,NA,69,50.79,6.7,37.99,2.24,"LOPEX",1993,"Betula pendula_Leaf62","LOPEX_Betula pendula_Leaf62_1993",93,22.6741071428571,14.94,19.445,14.05,2.1
+"307","European birch","Betula pendula",1.79,27.85,8.86,36.71,8.62,NA,59,50.79,6.7,37.99,2.24,"LOPEX",1993,"Betula pendula_Leaf62","LOPEX_Betula pendula_Leaf62_1993",78,22.6741071428571,14.94,19.445,14.05,2.1
+"308","European birch","Betula pendula",1.77,27.85,8.86,36.71,8.62,NA,59,50.79,6.7,37.99,2.24,"LOPEX",1993,"Betula pendula_Leaf62","LOPEX_Betula pendula_Leaf62_1993",78,22.6741071428571,14.94,19.445,14.05,2.1
+"309","European birch","Betula pendula",1.87,27.85,8.86,36.71,8.62,NA,65,50.79,6.7,37.99,2.24,"LOPEX",1993,"Betula pendula_Leaf62","LOPEX_Betula pendula_Leaf62_1993",83,22.6741071428571,14.94,19.445,14.05,2.1
+"310","European birch","Betula pendula",1.7,27.85,8.86,36.71,8.62,NA,52,50.79,6.7,37.99,2.24,"LOPEX",1993,"Betula pendula_Leaf62","LOPEX_Betula pendula_Leaf62_1993",74,22.6741071428571,14.94,19.445,14.05,2.1
+"311","Alfalfa","Medicago sativa",1.58,26.94,8.23,35.16,6.77,NA,39,46.06,6.4,36.87,5.8,"LOPEX",1993,"Med-sat_Leaf63","LOPEX_Med-sat_Leaf63_1993",113,7.94137931034483,34.295,12.2,4.845,NA
+"312","Alfalfa","Medicago sativa",1.44,26.94,8.23,35.16,6.77,NA,26,46.06,6.4,36.87,5.8,"LOPEX",1993,"Med-sat_Leaf63","LOPEX_Med-sat_Leaf63_1993",95,7.94137931034483,34.295,12.2,4.845,NA
+"313","Alfalfa","Medicago sativa",1.51,26.94,8.23,35.16,6.77,NA,30,46.06,6.4,36.87,5.8,"LOPEX",1993,"Med-sat_Leaf63","LOPEX_Med-sat_Leaf63_1993",95,7.94137931034483,34.295,12.2,4.845,NA
+"314","Alfalfa","Medicago sativa",1.53,26.94,8.23,35.16,6.77,NA,22,46.06,6.4,36.87,5.8,"LOPEX",1993,"Med-sat_Leaf63","LOPEX_Med-sat_Leaf63_1993",112,7.94137931034483,34.295,12.2,4.845,NA
+"315","Alfalfa","Medicago sativa",1.41,26.94,8.23,35.16,6.77,NA,17,46.06,6.4,36.87,5.8,"LOPEX",1993,"Med-sat_Leaf63","LOPEX_Med-sat_Leaf63_1993",96,7.94137931034483,34.295,12.2,4.845,NA
+"316","Tomato","Lycopersicum esculentum",1.45,38.6,13.65,52.25,8.88,NA,24,37.47,5.37,39.28,4.33,"LOPEX",1993,"Lycopersicum esculentum_Leaf64","LOPEX_Lycopersicum esculentum_Leaf64_1993",172,8.65357967667437,27.325,11.26,5.155,0.94
+"317","Tomato","Lycopersicum esculentum",1.54,38.6,13.65,52.25,8.88,NA,24,37.47,5.37,39.28,4.33,"LOPEX",1993,"Lycopersicum esculentum_Leaf64","LOPEX_Lycopersicum esculentum_Leaf64_1993",163,8.65357967667437,27.325,11.26,5.155,0.94
+"318","Tomato","Lycopersicum esculentum",1.66,38.6,13.65,52.25,8.88,NA,24,37.47,5.37,39.28,4.33,"LOPEX",1993,"Lycopersicum esculentum_Leaf64","LOPEX_Lycopersicum esculentum_Leaf64_1993",165,8.65357967667437,27.325,11.26,5.155,0.94
+"319","Tomato","Lycopersicum esculentum",1.69,38.6,13.65,52.25,8.88,NA,24,37.47,5.37,39.28,4.33,"LOPEX",1993,"Lycopersicum esculentum_Leaf64","LOPEX_Lycopersicum esculentum_Leaf64_1993",171,8.65357967667437,27.325,11.26,5.155,0.94
+"320","Tomato","Lycopersicum esculentum",1.64,38.6,13.65,52.25,8.88,NA,34,37.47,5.37,39.28,4.33,"LOPEX",1993,"Lycopersicum esculentum_Leaf64","LOPEX_Lycopersicum esculentum_Leaf64_1993",247,8.65357967667437,27.325,11.26,5.155,0.94
+"321","Soybean","Glycine max",1.72,0.9,0.47,1.36,5.15,NA,32,45.06,6.13,40.08,2.2,"LOPEX",1993,"Gly-max_Leaf65","LOPEX_Gly-max_Leaf65_1993",80,20.4818181818182,11.53,12.325,5.09,3.11
+"322","Soybean","Glycine max",1.7,0.9,0.47,1.36,5.15,NA,33,45.06,6.13,40.08,2.2,"LOPEX",1993,"Gly-max_Leaf65","LOPEX_Gly-max_Leaf65_1993",79,20.4818181818182,11.53,12.325,5.09,3.11
+"323","Soybean","Glycine max",2.1,0.9,0.47,1.36,5.15,NA,35,45.06,6.13,40.08,2.2,"LOPEX",1993,"Gly-max_Leaf65","LOPEX_Gly-max_Leaf65_1993",21,20.4818181818182,11.53,12.325,5.09,3.11
+"324","Soybean","Glycine max",1.91,0.9,0.47,1.36,5.15,NA,35,45.06,6.13,40.08,2.2,"LOPEX",1993,"Gly-max_Leaf65","LOPEX_Gly-max_Leaf65_1993",52,20.4818181818182,11.53,12.325,5.09,3.11
+"325","Soybean","Glycine max",1.94,0.9,0.47,1.36,5.15,NA,31,45.06,6.13,40.08,2.2,"LOPEX",1993,"Gly-max_Leaf65","LOPEX_Gly-max_Leaf65_1993",64,20.4818181818182,11.53,12.325,5.09,3.11
+"326","Rice","Oryza sativa",3,56.1,19.51,75.61,17.44,NA,57,42.84,5.86,38.1,1.64,"LOPEX",1993,"Ory-sat_Leaf66","LOPEX_Ory-sat_Leaf66_1993",88,26.1219512195122,10.83,27.29,6.9,NA
+"327","Rice","Oryza sativa",1.95,56.1,19.51,75.61,17.44,NA,59,42.84,5.86,38.1,1.64,"LOPEX",1993,"Ory-sat_Leaf66","LOPEX_Ory-sat_Leaf66_1993",64,26.1219512195122,10.83,27.29,6.9,NA
+"328","Rice","Oryza sativa",2.31,56.1,19.51,75.61,17.44,NA,72,42.84,5.86,38.1,1.64,"LOPEX",1993,"Ory-sat_Leaf66","LOPEX_Ory-sat_Leaf66_1993",80,26.1219512195122,10.83,27.29,6.9,NA
+"329","Rice","Oryza sativa",1.77,56.1,19.51,75.61,17.44,NA,55,42.84,5.86,38.1,1.64,"LOPEX",1993,"Ory-sat_Leaf66","LOPEX_Ory-sat_Leaf66_1993",65,26.1219512195122,10.83,27.29,6.9,NA
+"330","Rice","Oryza sativa",1.92,56.1,19.51,75.61,17.44,NA,51,42.84,5.86,38.1,1.64,"LOPEX",1993,"Ory-sat_Leaf66","LOPEX_Ory-sat_Leaf66_1993",79,26.1219512195122,10.83,27.29,6.9,NA

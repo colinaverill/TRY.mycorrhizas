@@ -1,19 +1,20 @@
-#grabbing TRY data of interest
-#data set has 10,364,255 lines
-#try <- read.table('/fs/data3/caverill/1585.txt',sep="\t")
-#library(data.table)
-#try <- fread('/fs/data3/caverill/1585.txt')
+#grabbing foliar lignin and CN from multiple data sets. 
 
-#There are problems in the data frame that keep this from uploading. Basically it has large notes, with weird formatting w/in the cells that throw off read.table/data.table
-#going to move on with a subset of data from TRY I downloaded a while ago
+#try data set
+try <- read.csv('data/1118.csv')
 
-try <- read.table('1118.txt',sep='/t')
-try <- read.csv('1118.csv')
-
+#aggregating try CN and lignin by species. 
 try.cn     <- try[try$TraitName == 'Leaf carbon/nitrogen (C/N) ratio',]
 try.lignin <- try[try$TraitName == 'Leaf lignin content per leaf dry mass',]
 try.lignin <- subset(try,try$TraitID == 87)
 
-#okay, well write script to bring in CN data and match to TRY. See how much coverage you get. 
-#okay. There are 1208 species in the FIA species code thing. 
+#data supplied by Alexey. Used for remote sensing validation of leaf lignin and nitrogen
+angers<-read.csv('data/angers.dat') #38 unqiue species
+fft   <-read.csv(   'data/fft.dat') #58 unique species
+lopex <-read.csv( 'data/lopex.dat') #45 unique species, all crops from france
+
+
+#this is all the species in the FIA data set, as well as those species mycorrhizal associations. 
 fia<- read.csv('mycorrhizal_SPCD_data.csv')
+
+
